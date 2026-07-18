@@ -18,8 +18,8 @@ O resultado em `dist/` é um site estático. Configure a hospedagem para servir 
 ## Dados e calendário
 
 - A data de desenvolvimento/publicação padrão é `2026-07-18` (`src/game.ts`). Antes de publicar em outra data, altere `EPOCH` e gere uma nova programação.
-- A programação é estável pela ordem de `ANSWERS` em `src/corpus.ts`. Novas respostas devem ser acrescentadas ao fim; reordenar entradas muda puzzles já publicados.
-- `src/corpus.ts` contém formas revistas e uma base sintética determinística para a versão inicial. Antes de uma publicação editorial, substitua a base sintética pelo pipeline de importação do dicionário Hunspell pt_BR do LibreOffice, fixe a revisão e preserve os arquivos de licença e atribuição do upstream.
-- Colisões de normalização devem manter uma única grafia canônica. Toda resposta deve continuar presente na lista de palpites.
+- A programação é estável pela ordem de `assets/words.txt`. Reordenar entradas muda puzzles já publicados.
+- `assets/words.txt` é tanto a lista de palpites válidos quanto a lista de respostas possíveis. `assets/accents.txt` preserva a grafia exibida quando ela difere da forma normalizada.
+- O corpus foi obtido do JavaScript do Termo no navegador. Os arquivos derivados podem ser regenerados com `python3 scripts/build_corpus.py`.
 
 O armazenamento usa a chave versionada `termo500.games.v2` no `localStorage`. Não há contas nem sincronização remota.
