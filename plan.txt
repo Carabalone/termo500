@@ -1,0 +1,57 @@
+Hi. This is a brand new project.
+
+Here is my big issue. I am brazilian, and I reeeeaaaaally like word games. There is this game called wordle, and it has a brazilian version called Termo (https://term.ooo/).
+While Termo is cool, I got tired of it. But this new game called Wordle500 made me very very interested.
+In short, wordle500 is wordle but they only tell you the number of yellow/green/red letters on every shot, and you are responsible for decoding what letters are what color. It is much harder.
+
+The problem is that wordle500 is in english, and I want to play in brazilian portuguese. Our task today is to reproduce this exact game but with brazilian portuguese words, and by preserving Termo's color scheme.
+
+Here is how to play, from wordle500 (https://word500.com/):
+<word500_tutorial>
+<h1>How to play Word500? </h1>
+		<hr>
+		<p>Guess the secret word in 8 attempts or less.</p>
+		<p>After each guess, the three colored tiles on the right (green, yellow, red) show how many letters of your guess are in the secret word, and how many are in the right position.</p>
+		<p>Unlike Wordle — which tells you exactly which letters are correct — Word500 only tells you the count. You have to figure out which ones!</p>
+		<hr>
+		<p class="p-bold">EXAMPLE:</p>
+		<hr class="invisible">
+		<img class="example" id="guess1" src="images/guess1.png" alt="guess1 (STARE)">		
+		<p>"STARE" contains 2 letters of the secret word, but in another position. 3 letters are not in the secret word.</p>
+		<hr>
+		<p>The on-screen keyboard has a few special keys:</p>
+		<p><strong>Spacebar</strong> — inserts an underscore (_) placeholder. Use it to skip a letter while you search for your next guess (e.g. P _ N _ S). On your physical keyboard, press Space or hyphen (-).</p>
+		<p><strong>Hint</strong> — generates a word that fits all previous clues. Requires at least one guess first. Can you resist the temptation?</p>
+		<p><strong>Clear</strong> — resets all color markings on the board.</p>
+		<hr>
+		<p>Click any letter tile to cycle its color: red → yellow → green → none. This helps you visualize your deductions. Use the Clear button (eraser icon, bottom keyboard row) to reset all colors at once.</p>
+		<hr>
+		<p>Word500 can be played in various languages, modes and difficulty levels. At Standard difficulty level (green smiley) the secret word cannot have repeat letters (like ORDER) and some letters are excluded.</p>
+		<hr>
+		<p>Every day, a new secret word is generated for each language and difficulty level. Enjoy!</p>
+
+</word500_tutorial>
+
+Word500 also has 3 modes:
+- Standard: no repeated letters, no JQXZ
+- Standard+: no repetead letters
+- Avanced: Anything goes!
+
+in portuguese, we are mostly interested in advanced, we may do other methods later if we feel like it. Furthermore, some changes that we want that are specific to brazilian portuguese (and mirror termo):
+- ç and c are considered the same letter and rendered interchangibly depending on the word. The same goes for any accent and tilde. Bocao is rendered as Bocão. vasco is rendered as vasco, chule is rendered as chulé, and braco is rendered as braço.
+
+We should use the same colorscheme as termo. I have zero idea if you can actually see the colorscheme that termo uses, so I included a screenshot of both websites. in this folder (termo.jpg, word500.jpg)
+
+In word500, every letter you choose is considered as gray in the keyboard down there, while in termo it stays the color the letter is (bc ofc in word500 you don't know it). We should mirror word500 in this behavior
+
+In both websites, the letters do not turn the color immediately, there is a little animation, the block turns on its own axis. Termo's is sideways (turns using the y axis)
+
+The project should probably be written in typescript + tailwind css and some framwork like vite or whatever, also react. I don't really care about the internals though, so we can figure this out in the first pass of the plan.
+
+You should get a word-base of 5 letter words in brazilian portuguse, must includes the words mengo and vasco.
+
+There should be a daily game and a saved archive for everyday. The game should reset everyday at local-computer's time at midnight. There should also be an archive in the website.
+
+We want to keep statistics, which would be saved to the browser. There are no accounts in this software. if the browser cache is cleared, the data is as well. Let's brainstorm on statistics that could be cool to show the users.
+
+In the end, let's plan for all of this in concrete milestones and try to achieve our goal. Let's revise if there is anything missing you'd like me to clarify.
