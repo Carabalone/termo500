@@ -24,3 +24,4 @@ TODOs.md
 playground/glob-import/root/follow-symlinks/linked/my-lib
 *.png
 *.txt
+!assets/*.txt
