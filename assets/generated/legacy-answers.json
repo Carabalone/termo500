@@ -1,0 +1,5782 @@
+[
+  {
+    "key": "TERMO",
+    "display": "TERMO"
+  },
+  {
+    "key": "SUITE",
+    "display": "SUÍTE"
+  },
+  {
+    "key": "AVIDO",
+    "display": "ÁVIDO"
+  },
+  {
+    "key": "FESTA",
+    "display": "FESTA"
+  },
+  {
+    "key": "BEBIA",
+    "display": "BEBIA"
+  },
+  {
+    "key": "HONRA",
+    "display": "HONRA"
+  },
+  {
+    "key": "OUVIR",
+    "display": "OUVIR"
+  },
+  {
+    "key": "PESCO",
+    "display": "PESCO"
+  },
+  {
+    "key": "FUNGO",
+    "display": "FUNGO"
+  },
+  {
+    "key": "PAGAM",
+    "display": "PAGAM"
+  },
+  {
+    "key": "GINGA",
+    "display": "GINGA"
+  },
+  {
+    "key": "PINTA",
+    "display": "PINTA"
+  },
+  {
+    "key": "PODER",
+    "display": "PODER"
+  },
+  {
+    "key": "UTERO",
+    "display": "ÚTERO"
+  },
+  {
+    "key": "PILHA",
+    "display": "PILHA"
+  },
+  {
+    "key": "SARAR",
+    "display": "SARAR"
+  },
+  {
+    "key": "FRUTA",
+    "display": "FRUTA"
+  },
+  {
+    "key": "PIANO",
+    "display": "PIANO"
+  },
+  {
+    "key": "NOTAR",
+    "display": "NOTAR"
+  },
+  {
+    "key": "MUSGO",
+    "display": "MUSGO"
+  },
+  {
+    "key": "TENSA",
+    "display": "TENSA"
+  },
+  {
+    "key": "MELAO",
+    "display": "MELÃO"
+  },
+  {
+    "key": "FELIZ",
+    "display": "FELIZ"
+  },
+  {
+    "key": "MIOJO",
+    "display": "MIOJO"
+  },
+  {
+    "key": "PAGOS",
+    "display": "PAGOS"
+  },
+  {
+    "key": "TEXTO",
+    "display": "TEXTO"
+  },
+  {
+    "key": "MAMAE",
+    "display": "MAMÃE"
+  },
+  {
+    "key": "AMENO",
+    "display": "AMENO"
+  },
+  {
+    "key": "CHUVA",
+    "display": "CHUVA"
+  },
+  {
+    "key": "CORAL",
+    "display": "CORAL"
+  },
+  {
+    "key": "FORTE",
+    "display": "FORTE"
+  },
+  {
+    "key": "TONTA",
+    "display": "TONTA"
+  },
+  {
+    "key": "TEMOR",
+    "display": "TEMOR"
+  },
+  {
+    "key": "LIGAR",
+    "display": "LIGAR"
+  },
+  {
+    "key": "ROLAR",
+    "display": "ROLAR"
+  },
+  {
+    "key": "NAVIO",
+    "display": "NAVIO"
+  },
+  {
+    "key": "LIMBO",
+    "display": "LIMBO"
+  },
+  {
+    "key": "CALVO",
+    "display": "CALVO"
+  },
+  {
+    "key": "FEDOR",
+    "display": "FEDOR"
+  },
+  {
+    "key": "BALDE",
+    "display": "BALDE"
+  },
+  {
+    "key": "OXALA",
+    "display": "OXALÁ"
+  },
+  {
+    "key": "TALCO",
+    "display": "TALCO"
+  },
+  {
+    "key": "LABIA",
+    "display": "LÁBIA"
+  },
+  {
+    "key": "CRIME",
+    "display": "CRIME"
+  },
+  {
+    "key": "GRADE",
+    "display": "GRADE"
+  },
+  {
+    "key": "CARTA",
+    "display": "CARTA"
+  },
+  {
+    "key": "FLORA",
+    "display": "FLORA"
+  },
+  {
+    "key": "COMUM",
+    "display": "COMUM"
+  },
+  {
+    "key": "FATAL",
+    "display": "FATAL"
+  },
+  {
+    "key": "PECAR",
+    "display": "PECAR"
+  },
+  {
+    "key": "FEROZ",
+    "display": "FEROZ"
+  },
+  {
+    "key": "VIRUS",
+    "display": "VÍRUS"
+  },
+  {
+    "key": "ARMAR",
+    "display": "ARMAR"
+  },
+  {
+    "key": "COURO",
+    "display": "COURO"
+  },
+  {
+    "key": "EXITO",
+    "display": "ÊXITO"
+  },
+  {
+    "key": "ECOAR",
+    "display": "ECOAR"
+  },
+  {
+    "key": "BALAO",
+    "display": "BALÃO"
+  },
+  {
+    "key": "FALIR",
+    "display": "FALIR"
+  },
+  {
+    "key": "TECER",
+    "display": "TECER"
+  },
+  {
+    "key": "ARENA",
+    "display": "ARENA"
+  },
+  {
+    "key": "JUSTO",
+    "display": "JUSTO"
+  },
+  {
+    "key": "ARIDO",
+    "display": "ÁRIDO"
+  },
+  {
+    "key": "RUIVA",
+    "display": "RUIVA"
+  },
+  {
+    "key": "MUMIA",
+    "display": "MÚMIA"
+  },
+  {
+    "key": "FOGAO",
+    "display": "FOGÃO"
+  },
+  {
+    "key": "DUPLA",
+    "display": "DUPLA"
+  },
+  {
+    "key": "TOUCA",
+    "display": "TOUCA"
+  },
+  {
+    "key": "SOGRO",
+    "display": "SOGRO"
+  },
+  {
+    "key": "OSSEO",
+    "display": "ÓSSEO"
+  },
+  {
+    "key": "TRETA",
+    "display": "TRETA"
+  },
+  {
+    "key": "ATOMO",
+    "display": "ÁTOMO"
+  },
+  {
+    "key": "SADIO",
+    "display": "SADIO"
+  },
+  {
+    "key": "COLON",
+    "display": "CÓLON"
+  },
+  {
+    "key": "PATIO",
+    "display": "PÁTIO"
+  },
+  {
+    "key": "MOLAS",
+    "display": "MOLAS"
+  },
+  {
+    "key": "CERTO",
+    "display": "CERTO"
+  },
+  {
+    "key": "RISCO",
+    "display": "RISCO"
+  },
+  {
+    "key": "BOSSA",
+    "display": "BOSSA"
+  },
+  {
+    "key": "PORRE",
+    "display": "PORRE"
+  },
+  {
+    "key": "TIGRE",
+    "display": "TIGRE"
+  },
+  {
+    "key": "VOCAL",
+    "display": "VOCAL"
+  },
+  {
+    "key": "TREZE",
+    "display": "TREZE"
+  },
+  {
+    "key": "SUECO",
+    "display": "SUECO"
+  },
+  {
+    "key": "VERBO",
+    "display": "VERBO"
+  },
+  {
+    "key": "LATIM",
+    "display": "LATIM"
+  },
+  {
+    "key": "POVOS",
+    "display": "POVOS"
+  },
+  {
+    "key": "LONGO",
+    "display": "LONGO"
+  },
+  {
+    "key": "LOTAR",
+    "display": "LOTAR"
+  },
+  {
+    "key": "DEPOR",
+    "display": "DEPOR"
+  },
+  {
+    "key": "CENTO",
+    "display": "CENTO"
+  },
+  {
+    "key": "TRAVA",
+    "display": "TRAVA"
+  },
+  {
+    "key": "LATAO",
+    "display": "LATÃO"
+  },
+  {
+    "key": "DITOS",
+    "display": "DITOS"
+  },
+  {
+    "key": "TORAX",
+    "display": "TÓRAX"
+  },
+  {
+    "key": "POLIR",
+    "display": "POLIR"
+  },
+  {
+    "key": "CACOS",
+    "display": "CACOS"
+  },
+  {
+    "key": "TUNEL",
+    "display": "TÚNEL"
+  },
+  {
+    "key": "LINDO",
+    "display": "LINDO"
+  },
+  {
+    "key": "PEGAR",
+    "display": "PEGAR"
+  },
+  {
+    "key": "PILAR",
+    "display": "PILAR"
+  },
+  {
+    "key": "PASSO",
+    "display": "PASSO"
+  },
+  {
+    "key": "PIADA",
+    "display": "PIADA"
+  },
+  {
+    "key": "PUXAR",
+    "display": "PUXAR"
+  },
+  {
+    "key": "TACAS",
+    "display": "TAÇAS"
+  },
+  {
+    "key": "MANTA",
+    "display": "MANTA"
+  },
+  {
+    "key": "BARBA",
+    "display": "BARBA"
+  },
+  {
+    "key": "SUBIR",
+    "display": "SUBIR"
+  },
+  {
+    "key": "TOSSE",
+    "display": "TOSSE"
+  },
+  {
+    "key": "ADEGA",
+    "display": "ADEGA"
+  },
+  {
+    "key": "VEIAS",
+    "display": "VEIAS"
+  },
+  {
+    "key": "MESMA",
+    "display": "MESMA"
+  },
+  {
+    "key": "MIRIM",
+    "display": "MIRIM"
+  },
+  {
+    "key": "MANSA",
+    "display": "MANSA"
+  },
+  {
+    "key": "NOBRE",
+    "display": "NOBRE"
+  },
+  {
+    "key": "GRAMA",
+    "display": "GRAMA"
+  },
+  {
+    "key": "RITMO",
+    "display": "RITMO"
+  },
+  {
+    "key": "SAMBA",
+    "display": "SAMBA"
+  },
+  {
+    "key": "ARDOR",
+    "display": "ARDOR"
+  },
+  {
+    "key": "DAQUI",
+    "display": "DAQUI"
+  },
+  {
+    "key": "BRAVO",
+    "display": "BRAVO"
+  },
+  {
+    "key": "SURFE",
+    "display": "SURFE"
+  },
+  {
+    "key": "TANTO",
+    "display": "TANTO"
+  },
+  {
+    "key": "IMUNE",
+    "display": "IMUNE"
+  },
+  {
+    "key": "LUCRO",
+    "display": "LUCRO"
+  },
+  {
+    "key": "FINOS",
+    "display": "FINOS"
+  },
+  {
+    "key": "BOCAS",
+    "display": "BOCAS"
+  },
+  {
+    "key": "TOLDO",
+    "display": "TOLDO"
+  },
+  {
+    "key": "MAJOR",
+    "display": "MAJOR"
+  },
+  {
+    "key": "CABOS",
+    "display": "CABOS"
+  },
+  {
+    "key": "ESTAR",
+    "display": "ESTAR"
+  },
+  {
+    "key": "FOCAL",
+    "display": "FOCAL"
+  },
+  {
+    "key": "ACOES",
+    "display": "AÇÕES"
+  },
+  {
+    "key": "QUEDA",
+    "display": "QUEDA"
+  },
+  {
+    "key": "JUROS",
+    "display": "JUROS"
+  },
+  {
+    "key": "ELITE",
+    "display": "ELITE"
+  },
+  {
+    "key": "BURRO",
+    "display": "BURRO"
+  },
+  {
+    "key": "FUNDO",
+    "display": "FUNDO"
+  },
+  {
+    "key": "DUELO",
+    "display": "DUELO"
+  },
+  {
+    "key": "BREVE",
+    "display": "BREVE"
+  },
+  {
+    "key": "BOLSO",
+    "display": "BOLSO"
+  },
+  {
+    "key": "LINHA",
+    "display": "LINHA"
+  },
+  {
+    "key": "PARIR",
+    "display": "PARIR"
+  },
+  {
+    "key": "FURAR",
+    "display": "FURAR"
+  },
+  {
+    "key": "QUINA",
+    "display": "QUINA"
+  },
+  {
+    "key": "PASTA",
+    "display": "PASTA"
+  },
+  {
+    "key": "SUINO",
+    "display": "SUÍNO"
+  },
+  {
+    "key": "DOSAR",
+    "display": "DOSAR"
+  },
+  {
+    "key": "CERVO",
+    "display": "CERVO"
+  },
+  {
+    "key": "SUJAR",
+    "display": "SUJAR"
+  },
+  {
+    "key": "CORDA",
+    "display": "CORDA"
+  },
+  {
+    "key": "MACIA",
+    "display": "MACIA"
+  },
+  {
+    "key": "RELER",
+    "display": "RELER"
+  },
+  {
+    "key": "MUSAS",
+    "display": "MUSAS"
+  },
+  {
+    "key": "VERME",
+    "display": "VERME"
+  },
+  {
+    "key": "FOCAR",
+    "display": "FOCAR"
+  },
+  {
+    "key": "MACAS",
+    "display": "MAÇÃS"
+  },
+  {
+    "key": "NOCAO",
+    "display": "NOÇÃO"
+  },
+  {
+    "key": "ANUAL",
+    "display": "ANUAL"
+  },
+  {
+    "key": "AEREA",
+    "display": "AÉREA"
+  },
+  {
+    "key": "CERCO",
+    "display": "CERCO"
+  },
+  {
+    "key": "SOCIO",
+    "display": "SÓCIO"
+  },
+  {
+    "key": "PORCA",
+    "display": "PORCA"
+  },
+  {
+    "key": "FRACO",
+    "display": "FRACO"
+  },
+  {
+    "key": "PUNHO",
+    "display": "PUNHO"
+  },
+  {
+    "key": "ACIMA",
+    "display": "ACIMA"
+  },
+  {
+    "key": "VARAO",
+    "display": "VARÃO"
+  },
+  {
+    "key": "BOLHA",
+    "display": "BOLHA"
+  },
+  {
+    "key": "TANGA",
+    "display": "TANGA"
+  },
+  {
+    "key": "GLOBO",
+    "display": "GLOBO"
+  },
+  {
+    "key": "RAMPA",
+    "display": "RAMPA"
+  },
+  {
+    "key": "GOELA",
+    "display": "GOELA"
+  },
+  {
+    "key": "REAIS",
+    "display": "REAIS"
+  },
+  {
+    "key": "CHEIO",
+    "display": "CHEIO"
+  },
+  {
+    "key": "FOSSO",
+    "display": "FOSSO"
+  },
+  {
+    "key": "POUCO",
+    "display": "POUCO"
+  },
+  {
+    "key": "DANOS",
+    "display": "DANOS"
+  },
+  {
+    "key": "SALAS",
+    "display": "SALAS"
+  },
+  {
+    "key": "MIMAR",
+    "display": "MIMAR"
+  },
+  {
+    "key": "SANHA",
+    "display": "SANHA"
+  },
+  {
+    "key": "OXIDO",
+    "display": "ÓXIDO"
+  },
+  {
+    "key": "SUAVE",
+    "display": "SUAVE"
+  },
+  {
+    "key": "EPOCA",
+    "display": "ÉPOCA"
+  },
+  {
+    "key": "ANTRO",
+    "display": "ANTRO"
+  },
+  {
+    "key": "TOTAL",
+    "display": "TOTAL"
+  },
+  {
+    "key": "JOIAS",
+    "display": "JÓIAS"
+  },
+  {
+    "key": "POLVO",
+    "display": "POLVO"
+  },
+  {
+    "key": "JEJUM",
+    "display": "JEJUM"
+  },
+  {
+    "key": "ATRIZ",
+    "display": "ATRIZ"
+  },
+  {
+    "key": "RECUO",
+    "display": "RECUO"
+  },
+  {
+    "key": "AGEIS",
+    "display": "ÁGEIS"
+  },
+  {
+    "key": "TRENO",
+    "display": "TRENÓ"
+  },
+  {
+    "key": "FLUIR",
+    "display": "FLUIR"
+  },
+  {
+    "key": "MUITO",
+    "display": "MUITO"
+  },
+  {
+    "key": "OPERA",
+    "display": "ÓPERA"
+  },
+  {
+    "key": "FICAR",
+    "display": "FICAR"
+  },
+  {
+    "key": "BUCHA",
+    "display": "BUCHA"
+  },
+  {
+    "key": "MAGRO",
+    "display": "MAGRO"
+  },
+  {
+    "key": "FROTA",
+    "display": "FROTA"
+  },
+  {
+    "key": "SERIE",
+    "display": "SÉRIE"
+  },
+  {
+    "key": "ACIDO",
+    "display": "ÁCIDO"
+  },
+  {
+    "key": "APICE",
+    "display": "ÁPICE"
+  },
+  {
+    "key": "LIDER",
+    "display": "LÍDER"
+  },
+  {
+    "key": "IDOSO",
+    "display": "IDOSO"
+  },
+  {
+    "key": "MULTA",
+    "display": "MULTA"
+  },
+  {
+    "key": "PRIMO",
+    "display": "PRIMO"
+  },
+  {
+    "key": "GARCA",
+    "display": "GARÇA"
+  },
+  {
+    "key": "BANAL",
+    "display": "BANAL"
+  },
+  {
+    "key": "JUIZA",
+    "display": "JUÍZA"
+  },
+  {
+    "key": "JORRO",
+    "display": "JORRO"
+  },
+  {
+    "key": "SISMO",
+    "display": "SISMO"
+  },
+  {
+    "key": "MERCE",
+    "display": "MERCÊ"
+  },
+  {
+    "key": "PONEI",
+    "display": "PÔNEI"
+  },
+  {
+    "key": "ETAPA",
+    "display": "ETAPA"
+  },
+  {
+    "key": "MODAS",
+    "display": "MODAS"
+  },
+  {
+    "key": "COLAR",
+    "display": "COLAR"
+  },
+  {
+    "key": "MUITA",
+    "display": "MUITA"
+  },
+  {
+    "key": "PAPEL",
+    "display": "PAPEL"
+  },
+  {
+    "key": "RUELA",
+    "display": "RUELA"
+  },
+  {
+    "key": "MEIAS",
+    "display": "MEIAS"
+  },
+  {
+    "key": "GRIPE",
+    "display": "GRIPE"
+  },
+  {
+    "key": "CAUSA",
+    "display": "CAUSA"
+  },
+  {
+    "key": "MENOR",
+    "display": "MENOR"
+  },
+  {
+    "key": "NULOS",
+    "display": "NULOS"
+  },
+  {
+    "key": "CAULE",
+    "display": "CAULE"
+  },
+  {
+    "key": "RUBOR",
+    "display": "RUBOR"
+  },
+  {
+    "key": "OPTAR",
+    "display": "OPTAR"
+  },
+  {
+    "key": "REDOR",
+    "display": "REDOR"
+  },
+  {
+    "key": "NACAO",
+    "display": "NAÇÃO"
+  },
+  {
+    "key": "GALHO",
+    "display": "GALHO"
+  },
+  {
+    "key": "ROUBO",
+    "display": "ROUBO"
+  },
+  {
+    "key": "PARTO",
+    "display": "PARTO"
+  },
+  {
+    "key": "CENAS",
+    "display": "CENAS"
+  },
+  {
+    "key": "PODIO",
+    "display": "PÓDIO"
+  },
+  {
+    "key": "LESAR",
+    "display": "LESAR"
+  },
+  {
+    "key": "TELAO",
+    "display": "TELÃO"
+  },
+  {
+    "key": "REUSO",
+    "display": "REÚSO"
+  },
+  {
+    "key": "ODIAR",
+    "display": "ODIAR"
+  },
+  {
+    "key": "USUAL",
+    "display": "USUAL"
+  },
+  {
+    "key": "LATIR",
+    "display": "LATIR"
+  },
+  {
+    "key": "ALTOS",
+    "display": "ALTOS"
+  },
+  {
+    "key": "LIVRE",
+    "display": "LIVRE"
+  },
+  {
+    "key": "VOSSO",
+    "display": "VOSSO"
+  },
+  {
+    "key": "GEADA",
+    "display": "GEADA"
+  },
+  {
+    "key": "ETNIA",
+    "display": "ETNIA"
+  },
+  {
+    "key": "TREVO",
+    "display": "TREVO"
+  },
+  {
+    "key": "REZAR",
+    "display": "REZAR"
+  },
+  {
+    "key": "BUCAL",
+    "display": "BUCAL"
+  },
+  {
+    "key": "VETOR",
+    "display": "VETOR"
+  },
+  {
+    "key": "FILHO",
+    "display": "FILHO"
+  },
+  {
+    "key": "MIOLO",
+    "display": "MIOLO"
+  },
+  {
+    "key": "ORDEM",
+    "display": "ORDEM"
+  },
+  {
+    "key": "VALOR",
+    "display": "VALOR"
+  },
+  {
+    "key": "FILHA",
+    "display": "FILHA"
+  },
+  {
+    "key": "ANTES",
+    "display": "ANTES"
+  },
+  {
+    "key": "VETAR",
+    "display": "VETAR"
+  },
+  {
+    "key": "SURRA",
+    "display": "SURRA"
+  },
+  {
+    "key": "PRATA",
+    "display": "PRATA"
+  },
+  {
+    "key": "CEDER",
+    "display": "CEDER"
+  },
+  {
+    "key": "PIRAO",
+    "display": "PIRÃO"
+  },
+  {
+    "key": "FREAR",
+    "display": "FREAR"
+  },
+  {
+    "key": "QUILO",
+    "display": "QUILO"
+  },
+  {
+    "key": "ROMBO",
+    "display": "ROMBO"
+  },
+  {
+    "key": "LOMBA",
+    "display": "LOMBA"
+  },
+  {
+    "key": "PRAIA",
+    "display": "PRAIA"
+  },
+  {
+    "key": "URNAS",
+    "display": "URNAS"
+  },
+  {
+    "key": "AVEIA",
+    "display": "AVEIA"
+  },
+  {
+    "key": "PICAR",
+    "display": "PICAR"
+  },
+  {
+    "key": "ARCAR",
+    "display": "ARCAR"
+  },
+  {
+    "key": "UNICA",
+    "display": "ÚNICA"
+  },
+  {
+    "key": "MAGOA",
+    "display": "MÁGOA"
+  },
+  {
+    "key": "JAULA",
+    "display": "JAULA"
+  },
+  {
+    "key": "GERAR",
+    "display": "GERAR"
+  },
+  {
+    "key": "TRENA",
+    "display": "TRENA"
+  },
+  {
+    "key": "GEMER",
+    "display": "GEMER"
+  },
+  {
+    "key": "RISTE",
+    "display": "RISTE"
+  },
+  {
+    "key": "LABIO",
+    "display": "LÁBIO"
+  },
+  {
+    "key": "BUSTO",
+    "display": "BUSTO"
+  },
+  {
+    "key": "VISAR",
+    "display": "VISAR"
+  },
+  {
+    "key": "VELHA",
+    "display": "VELHA"
+  },
+  {
+    "key": "AEREO",
+    "display": "AÉREO"
+  },
+  {
+    "key": "ADAGA",
+    "display": "ADAGA"
+  },
+  {
+    "key": "CRASE",
+    "display": "CRASE"
+  },
+  {
+    "key": "FERAS",
+    "display": "FERAS"
+  },
+  {
+    "key": "MISSA",
+    "display": "MISSA"
+  },
+  {
+    "key": "COBRA",
+    "display": "COBRA"
+  },
+  {
+    "key": "IDEIA",
+    "display": "IDÉIA"
+  },
+  {
+    "key": "BRIGA",
+    "display": "BRIGA"
+  },
+  {
+    "key": "DARDO",
+    "display": "DARDO"
+  },
+  {
+    "key": "BERCO",
+    "display": "BERÇO"
+  },
+  {
+    "key": "PALMO",
+    "display": "PALMO"
+  },
+  {
+    "key": "RALAR",
+    "display": "RALAR"
+  },
+  {
+    "key": "RELES",
+    "display": "RELES"
+  },
+  {
+    "key": "BLUSA",
+    "display": "BLUSA"
+  },
+  {
+    "key": "SUPER",
+    "display": "SUPER"
+  },
+  {
+    "key": "GRATA",
+    "display": "GRATA"
+  },
+  {
+    "key": "LONGA",
+    "display": "LONGA"
+  },
+  {
+    "key": "TARSO",
+    "display": "TARSO"
+  },
+  {
+    "key": "VULTO",
+    "display": "VULTO"
+  },
+  {
+    "key": "LENDA",
+    "display": "LENDA"
+  },
+  {
+    "key": "GREGO",
+    "display": "GREGO"
+  },
+  {
+    "key": "PINOS",
+    "display": "PINOS"
+  },
+  {
+    "key": "FLUOR",
+    "display": "FLÚOR"
+  },
+  {
+    "key": "OBESO",
+    "display": "OBESO"
+  },
+  {
+    "key": "SAUNA",
+    "display": "SAUNA"
+  },
+  {
+    "key": "ASSIM",
+    "display": "ASSIM"
+  },
+  {
+    "key": "TROCO",
+    "display": "TROCO"
+  },
+  {
+    "key": "UTEIS",
+    "display": "ÚTEIS"
+  },
+  {
+    "key": "INFRA",
+    "display": "INFRA"
+  },
+  {
+    "key": "PUDOR",
+    "display": "PUDOR"
+  },
+  {
+    "key": "COFRE",
+    "display": "COFRE"
+  },
+  {
+    "key": "PRECE",
+    "display": "PRECE"
+  },
+  {
+    "key": "JUNHO",
+    "display": "JUNHO"
+  },
+  {
+    "key": "MANCO",
+    "display": "MANCO"
+  },
+  {
+    "key": "PISAR",
+    "display": "PISAR"
+  },
+  {
+    "key": "POSSE",
+    "display": "POSSE"
+  },
+  {
+    "key": "COPAS",
+    "display": "COPAS"
+  },
+  {
+    "key": "NINFA",
+    "display": "NINFA"
+  },
+  {
+    "key": "GRUTA",
+    "display": "GRUTA"
+  },
+  {
+    "key": "REGRA",
+    "display": "REGRA"
+  },
+  {
+    "key": "CITAR",
+    "display": "CITAR"
+  },
+  {
+    "key": "MURAL",
+    "display": "MURAL"
+  },
+  {
+    "key": "GIRIA",
+    "display": "GÍRIA"
+  },
+  {
+    "key": "RUINA",
+    "display": "RUÍNA"
+  },
+  {
+    "key": "FASES",
+    "display": "FASES"
+  },
+  {
+    "key": "FARAO",
+    "display": "FARAÓ"
+  },
+  {
+    "key": "MIOPE",
+    "display": "MÍOPE"
+  },
+  {
+    "key": "MANDO",
+    "display": "MANDO"
+  },
+  {
+    "key": "FRIOS",
+    "display": "FRIOS"
+  },
+  {
+    "key": "GELAR",
+    "display": "GELAR"
+  },
+  {
+    "key": "CHAVE",
+    "display": "CHAVE"
+  },
+  {
+    "key": "SOBRA",
+    "display": "SOBRA"
+  },
+  {
+    "key": "OPACO",
+    "display": "OPACO"
+  },
+  {
+    "key": "LAGOS",
+    "display": "LAGOS"
+  },
+  {
+    "key": "CORPO",
+    "display": "CORPO"
+  },
+  {
+    "key": "DOSES",
+    "display": "DOSES"
+  },
+  {
+    "key": "BASCO",
+    "display": "BASCO"
+  },
+  {
+    "key": "CAIDA",
+    "display": "CAÍDA"
+  },
+  {
+    "key": "VINDA",
+    "display": "VINDA"
+  },
+  {
+    "key": "SUJOS",
+    "display": "SUJOS"
+  },
+  {
+    "key": "IGUAL",
+    "display": "IGUAL"
+  },
+  {
+    "key": "LAPIS",
+    "display": "LÁPIS"
+  },
+  {
+    "key": "JULHO",
+    "display": "JULHO"
+  },
+  {
+    "key": "ACASO",
+    "display": "ACASO"
+  },
+  {
+    "key": "DADOS",
+    "display": "DADOS"
+  },
+  {
+    "key": "FAVOR",
+    "display": "FAVOR"
+  },
+  {
+    "key": "PENTE",
+    "display": "PENTE"
+  },
+  {
+    "key": "BEATA",
+    "display": "BEATA"
+  },
+  {
+    "key": "CHULO",
+    "display": "CHULO"
+  },
+  {
+    "key": "RUMOS",
+    "display": "RUMOS"
+  },
+  {
+    "key": "CUBOS",
+    "display": "CUBOS"
+  },
+  {
+    "key": "TENTO",
+    "display": "TENTO"
+  },
+  {
+    "key": "TOQUE",
+    "display": "TOQUE"
+  },
+  {
+    "key": "POLPA",
+    "display": "POLPA"
+  },
+  {
+    "key": "OMBRO",
+    "display": "OMBRO"
+  },
+  {
+    "key": "RARAS",
+    "display": "RARAS"
+  },
+  {
+    "key": "PNEUS",
+    "display": "PNEUS"
+  },
+  {
+    "key": "CANIL",
+    "display": "CANIL"
+  },
+  {
+    "key": "FUNIL",
+    "display": "FUNIL"
+  },
+  {
+    "key": "PERTO",
+    "display": "PERTO"
+  },
+  {
+    "key": "COALA",
+    "display": "COALA"
+  },
+  {
+    "key": "AMPLO",
+    "display": "AMPLO"
+  },
+  {
+    "key": "ORGIA",
+    "display": "ORGIA"
+  },
+  {
+    "key": "DOCES",
+    "display": "DOCES"
+  },
+  {
+    "key": "SOBRE",
+    "display": "SOBRE"
+  },
+  {
+    "key": "TEDIO",
+    "display": "TÉDIO"
+  },
+  {
+    "key": "PINCA",
+    "display": "PINÇA"
+  },
+  {
+    "key": "MOTEL",
+    "display": "MOTEL"
+  },
+  {
+    "key": "TRUFA",
+    "display": "TRUFA"
+  },
+  {
+    "key": "VORAZ",
+    "display": "VORAZ"
+  },
+  {
+    "key": "AZEDO",
+    "display": "AZEDO"
+  },
+  {
+    "key": "COESO",
+    "display": "COESO"
+  },
+  {
+    "key": "ACARO",
+    "display": "ÁCARO"
+  },
+  {
+    "key": "CALMO",
+    "display": "CALMO"
+  },
+  {
+    "key": "ENFIM",
+    "display": "ENFIM"
+  },
+  {
+    "key": "MITOS",
+    "display": "MITOS"
+  },
+  {
+    "key": "FEIOS",
+    "display": "FEIOS"
+  },
+  {
+    "key": "PALHA",
+    "display": "PALHA"
+  },
+  {
+    "key": "ANDAR",
+    "display": "ANDAR"
+  },
+  {
+    "key": "CREPE",
+    "display": "CREPE"
+  },
+  {
+    "key": "PINGO",
+    "display": "PINGO"
+  },
+  {
+    "key": "AVELA",
+    "display": "AVELÃ"
+  },
+  {
+    "key": "MALTE",
+    "display": "MALTE"
+  },
+  {
+    "key": "SAIDA",
+    "display": "SAÍDA"
+  },
+  {
+    "key": "MONGE",
+    "display": "MONGE"
+  },
+  {
+    "key": "SALTO",
+    "display": "SALTO"
+  },
+  {
+    "key": "LOTUS",
+    "display": "LÓTUS"
+  },
+  {
+    "key": "RIMEL",
+    "display": "RÍMEL"
+  },
+  {
+    "key": "LAUDA",
+    "display": "LAUDA"
+  },
+  {
+    "key": "DAMAS",
+    "display": "DAMAS"
+  },
+  {
+    "key": "SADIA",
+    "display": "SADIA"
+  },
+  {
+    "key": "TRUCO",
+    "display": "TRUCO"
+  },
+  {
+    "key": "SERIO",
+    "display": "SÉRIO"
+  },
+  {
+    "key": "OESTE",
+    "display": "OESTE"
+  },
+  {
+    "key": "SELVA",
+    "display": "SELVA"
+  },
+  {
+    "key": "RETER",
+    "display": "RETER"
+  },
+  {
+    "key": "BOLSA",
+    "display": "BOLSA"
+  },
+  {
+    "key": "ANEXO",
+    "display": "ANEXO"
+  },
+  {
+    "key": "RENDA",
+    "display": "RENDA"
+  },
+  {
+    "key": "LOBOS",
+    "display": "LOBOS"
+  },
+  {
+    "key": "VICIO",
+    "display": "VÍCIO"
+  },
+  {
+    "key": "ZEBRA",
+    "display": "ZEBRA"
+  },
+  {
+    "key": "MODOS",
+    "display": "MODOS"
+  },
+  {
+    "key": "PRAXE",
+    "display": "PRAXE"
+  },
+  {
+    "key": "PUDIM",
+    "display": "PUDIM"
+  },
+  {
+    "key": "BIRRA",
+    "display": "BIRRA"
+  },
+  {
+    "key": "PRACA",
+    "display": "PRAÇA"
+  },
+  {
+    "key": "PEDRA",
+    "display": "PEDRA"
+  },
+  {
+    "key": "OLHAR",
+    "display": "OLHAR"
+  },
+  {
+    "key": "PIZZA",
+    "display": "PIZZA"
+  },
+  {
+    "key": "BANHO",
+    "display": "BANHO"
+  },
+  {
+    "key": "BUCHO",
+    "display": "BUCHO"
+  },
+  {
+    "key": "AFINS",
+    "display": "AFINS"
+  },
+  {
+    "key": "MAIOR",
+    "display": "MAIOR"
+  },
+  {
+    "key": "CABRA",
+    "display": "CABRA"
+  },
+  {
+    "key": "VISAO",
+    "display": "VISÃO"
+  },
+  {
+    "key": "IRADO",
+    "display": "IRADO"
+  },
+  {
+    "key": "RAZAO",
+    "display": "RAZÃO"
+  },
+  {
+    "key": "MACIO",
+    "display": "MACIO"
+  },
+  {
+    "key": "TROCA",
+    "display": "TROCA"
+  },
+  {
+    "key": "SALMO",
+    "display": "SALMO"
+  },
+  {
+    "key": "CASTA",
+    "display": "CASTA"
+  },
+  {
+    "key": "MIDIA",
+    "display": "MÍDIA"
+  },
+  {
+    "key": "TRUPE",
+    "display": "TRUPE"
+  },
+  {
+    "key": "MORNA",
+    "display": "MORNA"
+  },
+  {
+    "key": "FALSO",
+    "display": "FALSO"
+  },
+  {
+    "key": "LIDAR",
+    "display": "LIDAR"
+  },
+  {
+    "key": "AFETO",
+    "display": "AFETO"
+  },
+  {
+    "key": "VERSO",
+    "display": "VERSO"
+  },
+  {
+    "key": "BELOS",
+    "display": "BELOS"
+  },
+  {
+    "key": "PAREO",
+    "display": "PÁREO"
+  },
+  {
+    "key": "VIDEO",
+    "display": "VÍDEO"
+  },
+  {
+    "key": "DENSO",
+    "display": "DENSO"
+  },
+  {
+    "key": "HEROI",
+    "display": "HERÓI"
+  },
+  {
+    "key": "MOEDA",
+    "display": "MOEDA"
+  },
+  {
+    "key": "VAIAR",
+    "display": "VAIAR"
+  },
+  {
+    "key": "COPIA",
+    "display": "CÓPIA"
+  },
+  {
+    "key": "COCAR",
+    "display": "COÇAR"
+  },
+  {
+    "key": "AULAS",
+    "display": "AULAS"
+  },
+  {
+    "key": "GANHO",
+    "display": "GANHO"
+  },
+  {
+    "key": "CHAPA",
+    "display": "CHAPA"
+  },
+  {
+    "key": "JARRA",
+    "display": "JARRA"
+  },
+  {
+    "key": "VELHO",
+    "display": "VELHO"
+  },
+  {
+    "key": "GRILO",
+    "display": "GRILO"
+  },
+  {
+    "key": "SIGMA",
+    "display": "SIGMA"
+  },
+  {
+    "key": "FARSA",
+    "display": "FARSA"
+  },
+  {
+    "key": "SIGLA",
+    "display": "SIGLA"
+  },
+  {
+    "key": "CLONE",
+    "display": "CLONE"
+  },
+  {
+    "key": "CESTA",
+    "display": "CESTA"
+  },
+  {
+    "key": "ANJOS",
+    "display": "ANJOS"
+  },
+  {
+    "key": "RUGIR",
+    "display": "RUGIR"
+  },
+  {
+    "key": "LUZES",
+    "display": "LUZES"
+  },
+  {
+    "key": "ARDUA",
+    "display": "ÁRDUA"
+  },
+  {
+    "key": "PARVO",
+    "display": "PARVO"
+  },
+  {
+    "key": "CENSO",
+    "display": "CENSO"
+  },
+  {
+    "key": "VIRAR",
+    "display": "VIRAR"
+  },
+  {
+    "key": "APITO",
+    "display": "APITO"
+  },
+  {
+    "key": "GOSTO",
+    "display": "GOSTO"
+  },
+  {
+    "key": "CASTO",
+    "display": "CASTO"
+  },
+  {
+    "key": "FRACA",
+    "display": "FRACA"
+  },
+  {
+    "key": "AGUDO",
+    "display": "AGUDO"
+  },
+  {
+    "key": "SOVAR",
+    "display": "SOVAR"
+  },
+  {
+    "key": "FATOS",
+    "display": "FATOS"
+  },
+  {
+    "key": "TORSO",
+    "display": "TORSO"
+  },
+  {
+    "key": "TUMBA",
+    "display": "TUMBA"
+  },
+  {
+    "key": "VESTE",
+    "display": "VESTE"
+  },
+  {
+    "key": "LEOES",
+    "display": "LEÕES"
+  },
+  {
+    "key": "SECAR",
+    "display": "SECAR"
+  },
+  {
+    "key": "BERRO",
+    "display": "BERRO"
+  },
+  {
+    "key": "SUTIS",
+    "display": "SUTIS"
+  },
+  {
+    "key": "BISPO",
+    "display": "BISPO"
+  },
+  {
+    "key": "LOCAO",
+    "display": "LOÇÃO"
+  },
+  {
+    "key": "PESAR",
+    "display": "PESAR"
+  },
+  {
+    "key": "DIGNO",
+    "display": "DIGNO"
+  },
+  {
+    "key": "BAMBA",
+    "display": "BAMBA"
+  },
+  {
+    "key": "BROCA",
+    "display": "BROCA"
+  },
+  {
+    "key": "HIATO",
+    "display": "HIATO"
+  },
+  {
+    "key": "CLUBE",
+    "display": "CLUBE"
+  },
+  {
+    "key": "TOTEM",
+    "display": "TOTEM"
+  },
+  {
+    "key": "PRUMO",
+    "display": "PRUMO"
+  },
+  {
+    "key": "MEIOS",
+    "display": "MEIOS"
+  },
+  {
+    "key": "VULGO",
+    "display": "VULGO"
+  },
+  {
+    "key": "ESQUI",
+    "display": "ESQUI"
+  },
+  {
+    "key": "EPICO",
+    "display": "ÉPICO"
+  },
+  {
+    "key": "MINHA",
+    "display": "MINHA"
+  },
+  {
+    "key": "AINDA",
+    "display": "AINDA"
+  },
+  {
+    "key": "REMAR",
+    "display": "REMAR"
+  },
+  {
+    "key": "MANSO",
+    "display": "MANSO"
+  },
+  {
+    "key": "OUSAR",
+    "display": "OUSAR"
+  },
+  {
+    "key": "VIRAL",
+    "display": "VIRAL"
+  },
+  {
+    "key": "OVULO",
+    "display": "ÓVULO"
+  },
+  {
+    "key": "TROTE",
+    "display": "TROTE"
+  },
+  {
+    "key": "ARTES",
+    "display": "ARTES"
+  },
+  {
+    "key": "FACAS",
+    "display": "FACAS"
+  },
+  {
+    "key": "BRAVA",
+    "display": "BRAVA"
+  },
+  {
+    "key": "MEIGA",
+    "display": "MEIGA"
+  },
+  {
+    "key": "CAMPO",
+    "display": "CAMPO"
+  },
+  {
+    "key": "LEVAR",
+    "display": "LEVAR"
+  },
+  {
+    "key": "PRETA",
+    "display": "PRETA"
+  },
+  {
+    "key": "LEBRE",
+    "display": "LEBRE"
+  },
+  {
+    "key": "POBRE",
+    "display": "POBRE"
+  },
+  {
+    "key": "GESSO",
+    "display": "GESSO"
+  },
+  {
+    "key": "SABIA",
+    "display": "SABIÁ"
+  },
+  {
+    "key": "FREIO",
+    "display": "FREIO"
+  },
+  {
+    "key": "MARTE",
+    "display": "MARTE"
+  },
+  {
+    "key": "CLARA",
+    "display": "CLARA"
+  },
+  {
+    "key": "MAGOS",
+    "display": "MAGOS"
+  },
+  {
+    "key": "REINO",
+    "display": "REINO"
+  },
+  {
+    "key": "MURRO",
+    "display": "MURRO"
+  },
+  {
+    "key": "CALAR",
+    "display": "CALAR"
+  },
+  {
+    "key": "PROSA",
+    "display": "PROSA"
+  },
+  {
+    "key": "FEITA",
+    "display": "FEITA"
+  },
+  {
+    "key": "FOLGA",
+    "display": "FOLGA"
+  },
+  {
+    "key": "TERCO",
+    "display": "TERÇO"
+  },
+  {
+    "key": "PATAS",
+    "display": "PATAS"
+  },
+  {
+    "key": "VOGAL",
+    "display": "VOGAL"
+  },
+  {
+    "key": "ZIPER",
+    "display": "ZÍPER"
+  },
+  {
+    "key": "DIVAS",
+    "display": "DIVAS"
+  },
+  {
+    "key": "BORDA",
+    "display": "BORDA"
+  },
+  {
+    "key": "PENAR",
+    "display": "PENAR"
+  },
+  {
+    "key": "ERRAR",
+    "display": "ERRAR"
+  },
+  {
+    "key": "NEVOA",
+    "display": "NÉVOA"
+  },
+  {
+    "key": "MORTO",
+    "display": "MORTO"
+  },
+  {
+    "key": "FORMA",
+    "display": "FORMA"
+  },
+  {
+    "key": "AUREO",
+    "display": "ÁUREO"
+  },
+  {
+    "key": "VAPOR",
+    "display": "VAPOR"
+  },
+  {
+    "key": "CIRCO",
+    "display": "CIRCO"
+  },
+  {
+    "key": "FAIXA",
+    "display": "FAIXA"
+  },
+  {
+    "key": "BEIJO",
+    "display": "BEIJO"
+  },
+  {
+    "key": "BUFAO",
+    "display": "BUFÃO"
+  },
+  {
+    "key": "PEDIR",
+    "display": "PEDIR"
+  },
+  {
+    "key": "TROPA",
+    "display": "TROPA"
+  },
+  {
+    "key": "VITAL",
+    "display": "VITAL"
+  },
+  {
+    "key": "VENTO",
+    "display": "VENTO"
+  },
+  {
+    "key": "CARIE",
+    "display": "CÁRIE"
+  },
+  {
+    "key": "VESPA",
+    "display": "VESPA"
+  },
+  {
+    "key": "NEGRO",
+    "display": "NEGRO"
+  },
+  {
+    "key": "PARDO",
+    "display": "PARDO"
+  },
+  {
+    "key": "LOCAL",
+    "display": "LOCAL"
+  },
+  {
+    "key": "BEATO",
+    "display": "BEATO"
+  },
+  {
+    "key": "QUAIS",
+    "display": "QUAIS"
+  },
+  {
+    "key": "FRASE",
+    "display": "FRASE"
+  },
+  {
+    "key": "SUCOS",
+    "display": "SUCOS"
+  },
+  {
+    "key": "BOTAO",
+    "display": "BOTÃO"
+  },
+  {
+    "key": "BALSA",
+    "display": "BALSA"
+  },
+  {
+    "key": "FOICE",
+    "display": "FOICE"
+  },
+  {
+    "key": "NOZES",
+    "display": "NOZES"
+  },
+  {
+    "key": "DENTE",
+    "display": "DENTE"
+  },
+  {
+    "key": "CEDRO",
+    "display": "CEDRO"
+  },
+  {
+    "key": "ACENO",
+    "display": "ACENO"
+  },
+  {
+    "key": "REPOR",
+    "display": "REPOR"
+  },
+  {
+    "key": "LEQUE",
+    "display": "LEQUE"
+  },
+  {
+    "key": "DRAMA",
+    "display": "DRAMA"
+  },
+  {
+    "key": "FORNO",
+    "display": "FORNO"
+  },
+  {
+    "key": "TARDE",
+    "display": "TARDE"
+  },
+  {
+    "key": "SARRO",
+    "display": "SARRO"
+  },
+  {
+    "key": "CERTA",
+    "display": "CERTA"
+  },
+  {
+    "key": "TRAMA",
+    "display": "TRAMA"
+  },
+  {
+    "key": "MILHO",
+    "display": "MILHO"
+  },
+  {
+    "key": "DRENO",
+    "display": "DRENO"
+  },
+  {
+    "key": "CARMA",
+    "display": "CARMA"
+  },
+  {
+    "key": "POETA",
+    "display": "POETA"
+  },
+  {
+    "key": "MAFIA",
+    "display": "MÁFIA"
+  },
+  {
+    "key": "LENCO",
+    "display": "LENÇO"
+  },
+  {
+    "key": "NUNCA",
+    "display": "NUNCA"
+  },
+  {
+    "key": "FICHA",
+    "display": "FICHA"
+  },
+  {
+    "key": "OTICA",
+    "display": "ÓTICA"
+  },
+  {
+    "key": "MOLHO",
+    "display": "MOLHO"
+  },
+  {
+    "key": "BARAO",
+    "display": "BARÃO"
+  },
+  {
+    "key": "CUTIS",
+    "display": "CÚTIS"
+  },
+  {
+    "key": "TOADA",
+    "display": "TOADA"
+  },
+  {
+    "key": "TRENS",
+    "display": "TRENS"
+  },
+  {
+    "key": "CHALE",
+    "display": "CHALÉ"
+  },
+  {
+    "key": "CICLO",
+    "display": "CICLO"
+  },
+  {
+    "key": "LEIGO",
+    "display": "LEIGO"
+  },
+  {
+    "key": "GOLPE",
+    "display": "GOLPE"
+  },
+  {
+    "key": "HAVER",
+    "display": "HAVER"
+  },
+  {
+    "key": "VARAL",
+    "display": "VARAL"
+  },
+  {
+    "key": "RITOS",
+    "display": "RITOS"
+  },
+  {
+    "key": "FIBRA",
+    "display": "FIBRA"
+  },
+  {
+    "key": "NERVO",
+    "display": "NERVO"
+  },
+  {
+    "key": "IRMAS",
+    "display": "IRMÃS"
+  },
+  {
+    "key": "SAGAZ",
+    "display": "SAGAZ"
+  },
+  {
+    "key": "GENTE",
+    "display": "GENTE"
+  },
+  {
+    "key": "POMBO",
+    "display": "POMBO"
+  },
+  {
+    "key": "ZINCO",
+    "display": "ZINCO"
+  },
+  {
+    "key": "PAVOR",
+    "display": "PAVOR"
+  },
+  {
+    "key": "FEIXE",
+    "display": "FEIXE"
+  },
+  {
+    "key": "PULAR",
+    "display": "PULAR"
+  },
+  {
+    "key": "TITIA",
+    "display": "TITIA"
+  },
+  {
+    "key": "DETER",
+    "display": "DETER"
+  },
+  {
+    "key": "AXILA",
+    "display": "AXILA"
+  },
+  {
+    "key": "BREJO",
+    "display": "BREJO"
+  },
+  {
+    "key": "REVER",
+    "display": "REVER"
+  },
+  {
+    "key": "NAIPE",
+    "display": "NAIPE"
+  },
+  {
+    "key": "ARDER",
+    "display": "ARDER"
+  },
+  {
+    "key": "ENTAO",
+    "display": "ENTÃO"
+  },
+  {
+    "key": "PLENO",
+    "display": "PLENO"
+  },
+  {
+    "key": "PARMA",
+    "display": "PARMA"
+  },
+  {
+    "key": "JUIZO",
+    "display": "JUÍZO"
+  },
+  {
+    "key": "NOITE",
+    "display": "NOITE"
+  },
+  {
+    "key": "SEIVA",
+    "display": "SEIVA"
+  },
+  {
+    "key": "FUROR",
+    "display": "FUROR"
+  },
+  {
+    "key": "JANTA",
+    "display": "JANTA"
+  },
+  {
+    "key": "MOVER",
+    "display": "MOVER"
+  },
+  {
+    "key": "VIDRO",
+    "display": "VIDRO"
+  },
+  {
+    "key": "VOTAR",
+    "display": "VOTAR"
+  },
+  {
+    "key": "BRASA",
+    "display": "BRASA"
+  },
+  {
+    "key": "AREAL",
+    "display": "AREAL"
+  },
+  {
+    "key": "JARRO",
+    "display": "JARRO"
+  },
+  {
+    "key": "POCOS",
+    "display": "POÇOS"
+  },
+  {
+    "key": "NINJA",
+    "display": "NINJA"
+  },
+  {
+    "key": "NOSSA",
+    "display": "NOSSA"
+  },
+  {
+    "key": "BOIAR",
+    "display": "BOIAR"
+  },
+  {
+    "key": "OUTRA",
+    "display": "OUTRA"
+  },
+  {
+    "key": "PIRES",
+    "display": "PIRES"
+  },
+  {
+    "key": "REGAR",
+    "display": "REGAR"
+  },
+  {
+    "key": "BOATO",
+    "display": "BOATO"
+  },
+  {
+    "key": "SUMIR",
+    "display": "SUMIR"
+  },
+  {
+    "key": "LENTA",
+    "display": "LENTA"
+  },
+  {
+    "key": "LOIRA",
+    "display": "LOIRA"
+  },
+  {
+    "key": "CINZA",
+    "display": "CINZA"
+  },
+  {
+    "key": "FISCO",
+    "display": "FISCO"
+  },
+  {
+    "key": "AGORA",
+    "display": "AGORA"
+  },
+  {
+    "key": "LAZER",
+    "display": "LAZER"
+  },
+  {
+    "key": "PISTA",
+    "display": "PISTA"
+  },
+  {
+    "key": "PULGA",
+    "display": "PULGA"
+  },
+  {
+    "key": "FOSCA",
+    "display": "FOSCA"
+  },
+  {
+    "key": "MALES",
+    "display": "MALES"
+  },
+  {
+    "key": "CONTO",
+    "display": "CONTO"
+  },
+  {
+    "key": "TOCHA",
+    "display": "TOCHA"
+  },
+  {
+    "key": "RETAS",
+    "display": "RETAS"
+  },
+  {
+    "key": "CUSPE",
+    "display": "CUSPE"
+  },
+  {
+    "key": "PERSA",
+    "display": "PERSA"
+  },
+  {
+    "key": "GEMEO",
+    "display": "GÊMEO"
+  },
+  {
+    "key": "TENDA",
+    "display": "TENDA"
+  },
+  {
+    "key": "AGUIA",
+    "display": "ÁGUIA"
+  },
+  {
+    "key": "MEROS",
+    "display": "MEROS"
+  },
+  {
+    "key": "ROBOS",
+    "display": "ROBÔS"
+  },
+  {
+    "key": "LADOS",
+    "display": "LADOS"
+  },
+  {
+    "key": "AREIA",
+    "display": "AREIA"
+  },
+  {
+    "key": "IMPOR",
+    "display": "IMPOR"
+  },
+  {
+    "key": "VIGOR",
+    "display": "VIGOR"
+  },
+  {
+    "key": "MEDIO",
+    "display": "MÉDIO"
+  },
+  {
+    "key": "MATIZ",
+    "display": "MATIZ"
+  },
+  {
+    "key": "ORGAO",
+    "display": "ÓRGÃO"
+  },
+  {
+    "key": "SENSO",
+    "display": "SENSO"
+  },
+  {
+    "key": "NOVAS",
+    "display": "NOVAS"
+  },
+  {
+    "key": "TURCO",
+    "display": "TURCO"
+  },
+  {
+    "key": "DENSA",
+    "display": "DENSA"
+  },
+  {
+    "key": "BALAS",
+    "display": "BALAS"
+  },
+  {
+    "key": "BICHO",
+    "display": "BICHO"
+  },
+  {
+    "key": "GALAO",
+    "display": "GALÃO"
+  },
+  {
+    "key": "ATUAL",
+    "display": "ATUAL"
+  },
+  {
+    "key": "MONTE",
+    "display": "MONTE"
+  },
+  {
+    "key": "TRIBO",
+    "display": "TRIBO"
+  },
+  {
+    "key": "TARDA",
+    "display": "TARDA"
+  },
+  {
+    "key": "BAITA",
+    "display": "BAITA"
+  },
+  {
+    "key": "AMPLA",
+    "display": "AMPLA"
+  },
+  {
+    "key": "FLOCO",
+    "display": "FLOCO"
+  },
+  {
+    "key": "BANJO",
+    "display": "BANJO"
+  },
+  {
+    "key": "OLHOS",
+    "display": "OLHOS"
+  },
+  {
+    "key": "GASTO",
+    "display": "GASTO"
+  },
+  {
+    "key": "FACIL",
+    "display": "FÁCIL"
+  },
+  {
+    "key": "ACESA",
+    "display": "ACESA"
+  },
+  {
+    "key": "TORTO",
+    "display": "TORTO"
+  },
+  {
+    "key": "HORTA",
+    "display": "HORTA"
+  },
+  {
+    "key": "ALCAR",
+    "display": "ALÇAR"
+  },
+  {
+    "key": "VIVOS",
+    "display": "VIVOS"
+  },
+  {
+    "key": "GAITA",
+    "display": "GAITA"
+  },
+  {
+    "key": "SOLTO",
+    "display": "SOLTO"
+  },
+  {
+    "key": "CETRO",
+    "display": "CETRO"
+  },
+  {
+    "key": "REDES",
+    "display": "REDES"
+  },
+  {
+    "key": "CRIAR",
+    "display": "CRIAR"
+  },
+  {
+    "key": "SACRO",
+    "display": "SACRO"
+  },
+  {
+    "key": "BANIR",
+    "display": "BANIR"
+  },
+  {
+    "key": "PRATO",
+    "display": "PRATO"
+  },
+  {
+    "key": "GORRO",
+    "display": "GORRO"
+  },
+  {
+    "key": "MIUDO",
+    "display": "MIÚDO"
+  },
+  {
+    "key": "MOIDA",
+    "display": "MOÍDA"
+  },
+  {
+    "key": "ALIAR",
+    "display": "ALIAR"
+  },
+  {
+    "key": "BATER",
+    "display": "BATER"
+  },
+  {
+    "key": "FAUNA",
+    "display": "FAUNA"
+  },
+  {
+    "key": "NORTE",
+    "display": "NORTE"
+  },
+  {
+    "key": "HASTE",
+    "display": "HASTE"
+  },
+  {
+    "key": "ALADO",
+    "display": "ALADO"
+  },
+  {
+    "key": "BLOCO",
+    "display": "BLOCO"
+  },
+  {
+    "key": "PINGA",
+    "display": "PINGA"
+  },
+  {
+    "key": "ETICO",
+    "display": "ÉTICO"
+  },
+  {
+    "key": "CORJA",
+    "display": "CORJA"
+  },
+  {
+    "key": "MORNO",
+    "display": "MORNO"
+  },
+  {
+    "key": "IDEAL",
+    "display": "IDEAL"
+  },
+  {
+    "key": "FUSAO",
+    "display": "FUSÃO"
+  },
+  {
+    "key": "VERAO",
+    "display": "VERÃO"
+  },
+  {
+    "key": "VOZES",
+    "display": "VOZES"
+  },
+  {
+    "key": "BILIS",
+    "display": "BÍLIS"
+  },
+  {
+    "key": "IMPAR",
+    "display": "ÍMPAR"
+  },
+  {
+    "key": "SOGRA",
+    "display": "SOGRA"
+  },
+  {
+    "key": "JOVEM",
+    "display": "JOVEM"
+  },
+  {
+    "key": "TESTA",
+    "display": "TESTA"
+  },
+  {
+    "key": "METAL",
+    "display": "METAL"
+  },
+  {
+    "key": "FALSA",
+    "display": "FALSA"
+  },
+  {
+    "key": "BRUTO",
+    "display": "BRUTO"
+  },
+  {
+    "key": "TENSO",
+    "display": "TENSO"
+  },
+  {
+    "key": "DIQUE",
+    "display": "DIQUE"
+  },
+  {
+    "key": "FATOR",
+    "display": "FATOR"
+  },
+  {
+    "key": "SUTIL",
+    "display": "SUTIL"
+  },
+  {
+    "key": "GRUPO",
+    "display": "GRUPO"
+  },
+  {
+    "key": "MATAR",
+    "display": "MATAR"
+  },
+  {
+    "key": "MOTOR",
+    "display": "MOTOR"
+  },
+  {
+    "key": "MESES",
+    "display": "MESES"
+  },
+  {
+    "key": "VAZIO",
+    "display": "VAZIO"
+  },
+  {
+    "key": "CUJOS",
+    "display": "CUJOS"
+  },
+  {
+    "key": "PARDA",
+    "display": "PARDA"
+  },
+  {
+    "key": "CARPA",
+    "display": "CARPA"
+  },
+  {
+    "key": "ARABE",
+    "display": "ÁRABE"
+  },
+  {
+    "key": "PLEBE",
+    "display": "PLEBE"
+  },
+  {
+    "key": "ADVIR",
+    "display": "ADVIR"
+  },
+  {
+    "key": "PUNIR",
+    "display": "PUNIR"
+  },
+  {
+    "key": "RIVAL",
+    "display": "RIVAL"
+  },
+  {
+    "key": "TRAVE",
+    "display": "TRAVE"
+  },
+  {
+    "key": "TRICO",
+    "display": "TRICÔ"
+  },
+  {
+    "key": "LENTO",
+    "display": "LENTO"
+  },
+  {
+    "key": "SARDA",
+    "display": "SARDA"
+  },
+  {
+    "key": "GOZAR",
+    "display": "GOZAR"
+  },
+  {
+    "key": "CABER",
+    "display": "CABER"
+  },
+  {
+    "key": "SEXTA",
+    "display": "SEXTA"
+  },
+  {
+    "key": "SACRA",
+    "display": "SACRA"
+  },
+  {
+    "key": "ROLHA",
+    "display": "ROLHA"
+  },
+  {
+    "key": "ACUDE",
+    "display": "AÇUDE"
+  },
+  {
+    "key": "CASOS",
+    "display": "CASOS"
+  },
+  {
+    "key": "CISAO",
+    "display": "CISÃO"
+  },
+  {
+    "key": "CHATA",
+    "display": "CHATA"
+  },
+  {
+    "key": "OSSOS",
+    "display": "OSSOS"
+  },
+  {
+    "key": "EXPOR",
+    "display": "EXPOR"
+  },
+  {
+    "key": "VENDA",
+    "display": "VENDA"
+  },
+  {
+    "key": "CASCO",
+    "display": "CASCO"
+  },
+  {
+    "key": "BANCO",
+    "display": "BANCO"
+  },
+  {
+    "key": "BOMBA",
+    "display": "BOMBA"
+  },
+  {
+    "key": "SINAL",
+    "display": "SINAL"
+  },
+  {
+    "key": "HORTO",
+    "display": "HORTO"
+  },
+  {
+    "key": "RAMOS",
+    "display": "RAMOS"
+  },
+  {
+    "key": "FONTE",
+    "display": "FONTE"
+  },
+  {
+    "key": "LEITO",
+    "display": "LEITO"
+  },
+  {
+    "key": "COBRE",
+    "display": "COBRE"
+  },
+  {
+    "key": "TIBIA",
+    "display": "TÍBIA"
+  },
+  {
+    "key": "CINCO",
+    "display": "CINCO"
+  },
+  {
+    "key": "NOIVA",
+    "display": "NOIVA"
+  },
+  {
+    "key": "PONTO",
+    "display": "PONTO"
+  },
+  {
+    "key": "ALUNO",
+    "display": "ALUNO"
+  },
+  {
+    "key": "TRAJE",
+    "display": "TRAJE"
+  },
+  {
+    "key": "CANAL",
+    "display": "CANAL"
+  },
+  {
+    "key": "ROUCO",
+    "display": "ROUCO"
+  },
+  {
+    "key": "BOATE",
+    "display": "BOATE"
+  },
+  {
+    "key": "MUTUO",
+    "display": "MÚTUO"
+  },
+  {
+    "key": "CAROS",
+    "display": "CAROS"
+  },
+  {
+    "key": "LENTE",
+    "display": "LENTE"
+  },
+  {
+    "key": "LARES",
+    "display": "LARES"
+  },
+  {
+    "key": "SACAR",
+    "display": "SACAR"
+  },
+  {
+    "key": "POREM",
+    "display": "PORÉM"
+  },
+  {
+    "key": "FEUDO",
+    "display": "FEUDO"
+  },
+  {
+    "key": "VEZES",
+    "display": "VEZES"
+  },
+  {
+    "key": "CARGA",
+    "display": "CARGA"
+  },
+  {
+    "key": "INVES",
+    "display": "INVÉS"
+  },
+  {
+    "key": "PRESA",
+    "display": "PRESA"
+  },
+  {
+    "key": "GERAL",
+    "display": "GERAL"
+  },
+  {
+    "key": "NEGAR",
+    "display": "NEGAR"
+  },
+  {
+    "key": "ATUAR",
+    "display": "ATUAR"
+  },
+  {
+    "key": "CIUME",
+    "display": "CIÚME"
+  },
+  {
+    "key": "FIADO",
+    "display": "FIADO"
+  },
+  {
+    "key": "FORCA",
+    "display": "FORÇA"
+  },
+  {
+    "key": "CORVO",
+    "display": "CORVO"
+  },
+  {
+    "key": "GORDO",
+    "display": "GORDO"
+  },
+  {
+    "key": "TUTOR",
+    "display": "TUTOR"
+  },
+  {
+    "key": "DUROS",
+    "display": "DUROS"
+  },
+  {
+    "key": "EXAME",
+    "display": "EXAME"
+  },
+  {
+    "key": "CALDO",
+    "display": "CALDO"
+  },
+  {
+    "key": "CUPIM",
+    "display": "CUPIM"
+  },
+  {
+    "key": "OTIMO",
+    "display": "ÓTIMO"
+  },
+  {
+    "key": "MAMAR",
+    "display": "MAMAR"
+  },
+  {
+    "key": "INDIO",
+    "display": "ÍNDIO"
+  },
+  {
+    "key": "AUTOS",
+    "display": "AUTOS"
+  },
+  {
+    "key": "PAVIO",
+    "display": "PAVIO"
+  },
+  {
+    "key": "FOBIA",
+    "display": "FOBIA"
+  },
+  {
+    "key": "JEITO",
+    "display": "JEITO"
+  },
+  {
+    "key": "VOTOS",
+    "display": "VOTOS"
+  },
+  {
+    "key": "TESAO",
+    "display": "TESÃO"
+  },
+  {
+    "key": "LAGOA",
+    "display": "LAGOA"
+  },
+  {
+    "key": "PAMPA",
+    "display": "PAMPA"
+  },
+  {
+    "key": "DIODO",
+    "display": "DIODO"
+  },
+  {
+    "key": "PARTE",
+    "display": "PARTE"
+  },
+  {
+    "key": "AMBAS",
+    "display": "AMBAS"
+  },
+  {
+    "key": "FARDA",
+    "display": "FARDA"
+  },
+  {
+    "key": "SONAR",
+    "display": "SONAR"
+  },
+  {
+    "key": "BACON",
+    "display": "BACON"
+  },
+  {
+    "key": "GATAS",
+    "display": "GATAS"
+  },
+  {
+    "key": "BANCA",
+    "display": "BANCA"
+  },
+  {
+    "key": "MEIGO",
+    "display": "MEIGO"
+  },
+  {
+    "key": "PAVAO",
+    "display": "PAVÃO"
+  },
+  {
+    "key": "FIXOS",
+    "display": "FIXOS"
+  },
+  {
+    "key": "DOIDO",
+    "display": "DOIDO"
+  },
+  {
+    "key": "VALER",
+    "display": "VALER"
+  },
+  {
+    "key": "GIRAR",
+    "display": "GIRAR"
+  },
+  {
+    "key": "FOFAS",
+    "display": "FOFAS"
+  },
+  {
+    "key": "CASPA",
+    "display": "CASPA"
+  },
+  {
+    "key": "OPCAO",
+    "display": "OPÇÃO"
+  },
+  {
+    "key": "MACRO",
+    "display": "MACRO"
+  },
+  {
+    "key": "PREGO",
+    "display": "PREGO"
+  },
+  {
+    "key": "PERDA",
+    "display": "PERDA"
+  },
+  {
+    "key": "ENJOO",
+    "display": "ENJOO"
+  },
+  {
+    "key": "LONGE",
+    "display": "LONGE"
+  },
+  {
+    "key": "ICONE",
+    "display": "ÍCONE"
+  },
+  {
+    "key": "FERRO",
+    "display": "FERRO"
+  },
+  {
+    "key": "BRACO",
+    "display": "BRAÇO"
+  },
+  {
+    "key": "UNIDA",
+    "display": "UNIDA"
+  },
+  {
+    "key": "LICAO",
+    "display": "LIÇÃO"
+  },
+  {
+    "key": "ROCAR",
+    "display": "ROÇAR"
+  },
+  {
+    "key": "BAMBU",
+    "display": "BAMBU"
+  },
+  {
+    "key": "DORSO",
+    "display": "DORSO"
+  },
+  {
+    "key": "MORAL",
+    "display": "MORAL"
+  },
+  {
+    "key": "AMEBA",
+    "display": "AMEBA"
+  },
+  {
+    "key": "VIRIL",
+    "display": "VIRIL"
+  },
+  {
+    "key": "AMORA",
+    "display": "AMORA"
+  },
+  {
+    "key": "MAGNA",
+    "display": "MAGNA"
+  },
+  {
+    "key": "RURAL",
+    "display": "RURAL"
+  },
+  {
+    "key": "PENAL",
+    "display": "PENAL"
+  },
+  {
+    "key": "ABUSO",
+    "display": "ABUSO"
+  },
+  {
+    "key": "SUNGA",
+    "display": "SUNGA"
+  },
+  {
+    "key": "POCAO",
+    "display": "POÇÃO"
+  },
+  {
+    "key": "ERROS",
+    "display": "ERROS"
+  },
+  {
+    "key": "SURDA",
+    "display": "SURDA"
+  },
+  {
+    "key": "BEBER",
+    "display": "BEBER"
+  },
+  {
+    "key": "CIFRA",
+    "display": "CIFRA"
+  },
+  {
+    "key": "MOVEL",
+    "display": "MÓVEL"
+  },
+  {
+    "key": "ATRAS",
+    "display": "ATRÁS"
+  },
+  {
+    "key": "FAROL",
+    "display": "FAROL"
+  },
+  {
+    "key": "FUGAZ",
+    "display": "FUGAZ"
+  },
+  {
+    "key": "ZERAR",
+    "display": "ZERAR"
+  },
+  {
+    "key": "MENTA",
+    "display": "MENTA"
+  },
+  {
+    "key": "ESTES",
+    "display": "ESTES"
+  },
+  {
+    "key": "VENUS",
+    "display": "VÊNUS"
+  },
+  {
+    "key": "VISTA",
+    "display": "VISTA"
+  },
+  {
+    "key": "FINAL",
+    "display": "FINAL"
+  },
+  {
+    "key": "NEVAR",
+    "display": "NEVAR"
+  },
+  {
+    "key": "NORMA",
+    "display": "NORMA"
+  },
+  {
+    "key": "LESTE",
+    "display": "LESTE"
+  },
+  {
+    "key": "NUDEZ",
+    "display": "NUDEZ"
+  },
+  {
+    "key": "TELAS",
+    "display": "TELAS"
+  },
+  {
+    "key": "TINTO",
+    "display": "TINTO"
+  },
+  {
+    "key": "SABER",
+    "display": "SABER"
+  },
+  {
+    "key": "BINGO",
+    "display": "BINGO"
+  },
+  {
+    "key": "CACAU",
+    "display": "CACAU"
+  },
+  {
+    "key": "FARDO",
+    "display": "FARDO"
+  },
+  {
+    "key": "MORAR",
+    "display": "MORAR"
+  },
+  {
+    "key": "BIOMA",
+    "display": "BIOMA"
+  },
+  {
+    "key": "DOMAR",
+    "display": "DOMAR"
+  },
+  {
+    "key": "GREGA",
+    "display": "GREGA"
+  },
+  {
+    "key": "COICE",
+    "display": "COICE"
+  },
+  {
+    "key": "ERVAS",
+    "display": "ERVAS"
+  },
+  {
+    "key": "MEDIR",
+    "display": "MEDIR"
+  },
+  {
+    "key": "MISTA",
+    "display": "MISTA"
+  },
+  {
+    "key": "ATROZ",
+    "display": "ATROZ"
+  },
+  {
+    "key": "RAIOS",
+    "display": "RAIOS"
+  },
+  {
+    "key": "TOSAR",
+    "display": "TOSAR"
+  },
+  {
+    "key": "MUROS",
+    "display": "MUROS"
+  },
+  {
+    "key": "SANTA",
+    "display": "SANTA"
+  },
+  {
+    "key": "DESDE",
+    "display": "DESDE"
+  },
+  {
+    "key": "POSTO",
+    "display": "POSTO"
+  },
+  {
+    "key": "CESTO",
+    "display": "CESTO"
+  },
+  {
+    "key": "ABRIL",
+    "display": "ABRIL"
+  },
+  {
+    "key": "PENTA",
+    "display": "PENTA"
+  },
+  {
+    "key": "CELTA",
+    "display": "CELTA"
+  },
+  {
+    "key": "MUDAR",
+    "display": "MUDAR"
+  },
+  {
+    "key": "CACHO",
+    "display": "CACHO"
+  },
+  {
+    "key": "BANDO",
+    "display": "BANDO"
+  },
+  {
+    "key": "CAIXA",
+    "display": "CAIXA"
+  },
+  {
+    "key": "RESTO",
+    "display": "RESTO"
+  },
+  {
+    "key": "LIBRA",
+    "display": "LIBRA"
+  },
+  {
+    "key": "REGUA",
+    "display": "RÉGUA"
+  },
+  {
+    "key": "CALDA",
+    "display": "CALDA"
+  },
+  {
+    "key": "PRETO",
+    "display": "PRETO"
+  },
+  {
+    "key": "TENUE",
+    "display": "TÊNUE"
+  },
+  {
+    "key": "VAZAR",
+    "display": "VAZAR"
+  },
+  {
+    "key": "REGER",
+    "display": "REGER"
+  },
+  {
+    "key": "USINA",
+    "display": "USINA"
+  },
+  {
+    "key": "VAZIA",
+    "display": "VAZIA"
+  },
+  {
+    "key": "TODOS",
+    "display": "TODOS"
+  },
+  {
+    "key": "DURAR",
+    "display": "DURAR"
+  },
+  {
+    "key": "RIMAR",
+    "display": "RIMAR"
+  },
+  {
+    "key": "ANGRA",
+    "display": "ANGRA"
+  },
+  {
+    "key": "SELOS",
+    "display": "SELOS"
+  },
+  {
+    "key": "ALIAS",
+    "display": "ALIÁS"
+  },
+  {
+    "key": "PRECO",
+    "display": "PREÇO"
+  },
+  {
+    "key": "BUFAR",
+    "display": "BUFAR"
+  },
+  {
+    "key": "NUVEM",
+    "display": "NUVEM"
+  },
+  {
+    "key": "ETICA",
+    "display": "ÉTICA"
+  },
+  {
+    "key": "LAPSO",
+    "display": "LAPSO"
+  },
+  {
+    "key": "UNIAO",
+    "display": "UNIÃO"
+  },
+  {
+    "key": "CIVIS",
+    "display": "CIVIS"
+  },
+  {
+    "key": "GRITO",
+    "display": "GRITO"
+  },
+  {
+    "key": "BONUS",
+    "display": "BÔNUS"
+  },
+  {
+    "key": "CINTO",
+    "display": "CINTO"
+  },
+  {
+    "key": "MATOS",
+    "display": "MATOS"
+  },
+  {
+    "key": "SAFRA",
+    "display": "SAFRA"
+  },
+  {
+    "key": "ALGOZ",
+    "display": "ALGOZ"
+  },
+  {
+    "key": "LETRA",
+    "display": "LETRA"
+  },
+  {
+    "key": "DOGMA",
+    "display": "DOGMA"
+  },
+  {
+    "key": "PESCA",
+    "display": "PESCA"
+  },
+  {
+    "key": "LINHO",
+    "display": "LINHO"
+  },
+  {
+    "key": "TCHAU",
+    "display": "TCHAU"
+  },
+  {
+    "key": "GRAXA",
+    "display": "GRAXA"
+  },
+  {
+    "key": "CASAL",
+    "display": "CASAL"
+  },
+  {
+    "key": "LIDOS",
+    "display": "LIDOS"
+  },
+  {
+    "key": "ZONAS",
+    "display": "ZONAS"
+  },
+  {
+    "key": "LORDE",
+    "display": "LORDE"
+  },
+  {
+    "key": "LARVA",
+    "display": "LARVA"
+  },
+  {
+    "key": "GNOMO",
+    "display": "GNOMO"
+  },
+  {
+    "key": "CASCA",
+    "display": "CASCA"
+  },
+  {
+    "key": "BOTAR",
+    "display": "BOTAR"
+  },
+  {
+    "key": "TINTA",
+    "display": "TINTA"
+  },
+  {
+    "key": "PRADO",
+    "display": "PRADO"
+  },
+  {
+    "key": "ANIMO",
+    "display": "ÂNIMO"
+  },
+  {
+    "key": "BACIA",
+    "display": "BACIA"
+  },
+  {
+    "key": "MAGIA",
+    "display": "MAGIA"
+  },
+  {
+    "key": "SAQUE",
+    "display": "SAQUE"
+  },
+  {
+    "key": "GRATO",
+    "display": "GRATO"
+  },
+  {
+    "key": "BARES",
+    "display": "BARES"
+  },
+  {
+    "key": "ROLOS",
+    "display": "ROLOS"
+  },
+  {
+    "key": "LOURA",
+    "display": "LOURA"
+  },
+  {
+    "key": "OBVIO",
+    "display": "ÓBVIO"
+  },
+  {
+    "key": "VIOLA",
+    "display": "VIOLA"
+  },
+  {
+    "key": "LINDA",
+    "display": "LINDA"
+  },
+  {
+    "key": "SABIO",
+    "display": "SÁBIO"
+  },
+  {
+    "key": "CUECA",
+    "display": "CUECA"
+  },
+  {
+    "key": "SANTO",
+    "display": "SANTO"
+  },
+  {
+    "key": "COUVE",
+    "display": "COUVE"
+  },
+  {
+    "key": "SUSTO",
+    "display": "SUSTO"
+  },
+  {
+    "key": "OSTRA",
+    "display": "OSTRA"
+  },
+  {
+    "key": "ALTAR",
+    "display": "ALTAR"
+  },
+  {
+    "key": "FURIA",
+    "display": "FÚRIA"
+  },
+  {
+    "key": "LIMPO",
+    "display": "LIMPO"
+  },
+  {
+    "key": "TRAIR",
+    "display": "TRAIR"
+  },
+  {
+    "key": "IDOLO",
+    "display": "ÍDOLO"
+  },
+  {
+    "key": "DEUSA",
+    "display": "DEUSA"
+  },
+  {
+    "key": "USURA",
+    "display": "USURA"
+  },
+  {
+    "key": "CACAR",
+    "display": "CAÇAR"
+  },
+  {
+    "key": "TODAS",
+    "display": "TODAS"
+  },
+  {
+    "key": "OBTER",
+    "display": "OBTER"
+  },
+  {
+    "key": "TAMPA",
+    "display": "TAMPA"
+  },
+  {
+    "key": "FOSSA",
+    "display": "FOSSA"
+  },
+  {
+    "key": "LAVAR",
+    "display": "LAVAR"
+  },
+  {
+    "key": "GUETO",
+    "display": "GUETO"
+  },
+  {
+    "key": "LUNAR",
+    "display": "LUNAR"
+  },
+  {
+    "key": "PANDA",
+    "display": "PANDA"
+  },
+  {
+    "key": "VACUO",
+    "display": "VÁCUO"
+  },
+  {
+    "key": "RIGOR",
+    "display": "RIGOR"
+  },
+  {
+    "key": "HUMOR",
+    "display": "HUMOR"
+  },
+  {
+    "key": "PULSO",
+    "display": "PULSO"
+  },
+  {
+    "key": "TERNO",
+    "display": "TERNO"
+  },
+  {
+    "key": "ANEIS",
+    "display": "ANÉIS"
+  },
+  {
+    "key": "DONOS",
+    "display": "DONOS"
+  },
+  {
+    "key": "COXAO",
+    "display": "COXÃO"
+  },
+  {
+    "key": "CIVIL",
+    "display": "CIVIL"
+  },
+  {
+    "key": "BOCAL",
+    "display": "BOCAL"
+  },
+  {
+    "key": "AROMA",
+    "display": "AROMA"
+  },
+  {
+    "key": "SOLDO",
+    "display": "SOLDO"
+  },
+  {
+    "key": "MORRO",
+    "display": "MORRO"
+  },
+  {
+    "key": "COXAS",
+    "display": "COXAS"
+  },
+  {
+    "key": "CUPOM",
+    "display": "CUPOM"
+  },
+  {
+    "key": "JOGOS",
+    "display": "JOGOS"
+  },
+  {
+    "key": "FUROS",
+    "display": "FUROS"
+  },
+  {
+    "key": "ARCOS",
+    "display": "ARCOS"
+  },
+  {
+    "key": "LOUCA",
+    "display": "LOUCA"
+  },
+  {
+    "key": "PESTE",
+    "display": "PESTE"
+  },
+  {
+    "key": "CRISE",
+    "display": "CRISE"
+  },
+  {
+    "key": "HOMEM",
+    "display": "HOMEM"
+  },
+  {
+    "key": "DUPLO",
+    "display": "DUPLO"
+  },
+  {
+    "key": "TAXIS",
+    "display": "TÁXIS"
+  },
+  {
+    "key": "PAUTA",
+    "display": "PAUTA"
+  },
+  {
+    "key": "CANJA",
+    "display": "CANJA"
+  },
+  {
+    "key": "CAUDA",
+    "display": "CAUDA"
+  },
+  {
+    "key": "DIZER",
+    "display": "DIZER"
+  },
+  {
+    "key": "RAPAZ",
+    "display": "RAPAZ"
+  },
+  {
+    "key": "ATLAS",
+    "display": "ATLAS"
+  },
+  {
+    "key": "JOGAR",
+    "display": "JOGAR"
+  },
+  {
+    "key": "SITIO",
+    "display": "SÍTIO"
+  },
+  {
+    "key": "GUIAR",
+    "display": "GUIAR"
+  },
+  {
+    "key": "BABAR",
+    "display": "BABAR"
+  },
+  {
+    "key": "TRONO",
+    "display": "TRONO"
+  },
+  {
+    "key": "TRIGO",
+    "display": "TRIGO"
+  },
+  {
+    "key": "NOVOS",
+    "display": "NOVOS"
+  },
+  {
+    "key": "MASSA",
+    "display": "MASSA"
+  },
+  {
+    "key": "HORAS",
+    "display": "HORAS"
+  },
+  {
+    "key": "JUNTO",
+    "display": "JUNTO"
+  },
+  {
+    "key": "OMEGA",
+    "display": "ÔMEGA"
+  },
+  {
+    "key": "SALSA",
+    "display": "SALSA"
+  },
+  {
+    "key": "PINHO",
+    "display": "PINHO"
+  },
+  {
+    "key": "BRISA",
+    "display": "BRISA"
+  },
+  {
+    "key": "AMBOS",
+    "display": "AMBOS"
+  },
+  {
+    "key": "GURIA",
+    "display": "GURIA"
+  },
+  {
+    "key": "BREGA",
+    "display": "BREGA"
+  },
+  {
+    "key": "MOTIM",
+    "display": "MOTIM"
+  },
+  {
+    "key": "RUMOR",
+    "display": "RUMOR"
+  },
+  {
+    "key": "SUTIA",
+    "display": "SUTIÃ"
+  },
+  {
+    "key": "DUCHA",
+    "display": "DUCHA"
+  },
+  {
+    "key": "MISTO",
+    "display": "MISTO"
+  },
+  {
+    "key": "FARTO",
+    "display": "FARTO"
+  },
+  {
+    "key": "POLEN",
+    "display": "PÓLEN"
+  },
+  {
+    "key": "DEBIL",
+    "display": "DÉBIL"
+  },
+  {
+    "key": "DICAS",
+    "display": "DICAS"
+  },
+  {
+    "key": "CANTO",
+    "display": "CANTO"
+  },
+  {
+    "key": "CARGO",
+    "display": "CARGO"
+  },
+  {
+    "key": "SEITA",
+    "display": "SEITA"
+  },
+  {
+    "key": "GRAUS",
+    "display": "GRAUS"
+  },
+  {
+    "key": "BAILE",
+    "display": "BAILE"
+  },
+  {
+    "key": "ZELAR",
+    "display": "ZELAR"
+  },
+  {
+    "key": "APELO",
+    "display": "APELO"
+  },
+  {
+    "key": "ARROZ",
+    "display": "ARROZ"
+  },
+  {
+    "key": "CANOA",
+    "display": "CANOA"
+  },
+  {
+    "key": "PERNA",
+    "display": "PERNA"
+  },
+  {
+    "key": "TARJA",
+    "display": "TARJA"
+  },
+  {
+    "key": "VASOS",
+    "display": "VASOS"
+  },
+  {
+    "key": "FLUXO",
+    "display": "FLUXO"
+  },
+  {
+    "key": "FALAR",
+    "display": "FALAR"
+  },
+  {
+    "key": "DOBRO",
+    "display": "DOBRO"
+  },
+  {
+    "key": "ORFAO",
+    "display": "ÓRFÃO"
+  },
+  {
+    "key": "LEITE",
+    "display": "LEITE"
+  },
+  {
+    "key": "CURSO",
+    "display": "CURSO"
+  },
+  {
+    "key": "COMER",
+    "display": "COMER"
+  },
+  {
+    "key": "CISNE",
+    "display": "CISNE"
+  },
+  {
+    "key": "FEMEA",
+    "display": "FÊMEA"
+  },
+  {
+    "key": "CHEIA",
+    "display": "CHEIA"
+  },
+  {
+    "key": "LUGAR",
+    "display": "LUGAR"
+  },
+  {
+    "key": "PRAZO",
+    "display": "PRAZO"
+  },
+  {
+    "key": "LETAL",
+    "display": "LETAL"
+  },
+  {
+    "key": "SECAO",
+    "display": "SEÇÃO"
+  },
+  {
+    "key": "FIAPO",
+    "display": "FIAPO"
+  },
+  {
+    "key": "VINTE",
+    "display": "VINTE"
+  },
+  {
+    "key": "PUXAO",
+    "display": "PUXÃO"
+  },
+  {
+    "key": "REVES",
+    "display": "REVÉS"
+  },
+  {
+    "key": "CLIPE",
+    "display": "CLIPE"
+  },
+  {
+    "key": "TOMAR",
+    "display": "TOMAR"
+  },
+  {
+    "key": "MANTO",
+    "display": "MANTO"
+  },
+  {
+    "key": "GESTO",
+    "display": "GESTO"
+  },
+  {
+    "key": "PRAGA",
+    "display": "PRAGA"
+  },
+  {
+    "key": "AUDIO",
+    "display": "ÁUDIO"
+  },
+  {
+    "key": "ANSIA",
+    "display": "ÂNSIA"
+  },
+  {
+    "key": "TRIPE",
+    "display": "TRIPÉ"
+  },
+  {
+    "key": "LICOR",
+    "display": "LICOR"
+  },
+  {
+    "key": "ALIBI",
+    "display": "ÁLIBI"
+  },
+  {
+    "key": "INATO",
+    "display": "INATO"
+  },
+  {
+    "key": "LANCE",
+    "display": "LANCE"
+  },
+  {
+    "key": "REDEA",
+    "display": "RÉDEA"
+  },
+  {
+    "key": "MUTUA",
+    "display": "MÚTUA"
+  },
+  {
+    "key": "VAGAO",
+    "display": "VAGÃO"
+  },
+  {
+    "key": "LESMA",
+    "display": "LESMA"
+  },
+  {
+    "key": "BEIRA",
+    "display": "BEIRA"
+  },
+  {
+    "key": "ABONO",
+    "display": "ABONO"
+  },
+  {
+    "key": "SALAO",
+    "display": "SALÃO"
+  },
+  {
+    "key": "RUSSO",
+    "display": "RUSSO"
+  },
+  {
+    "key": "CAQUI",
+    "display": "CAQUI"
+  },
+  {
+    "key": "PELOS",
+    "display": "PELOS"
+  },
+  {
+    "key": "SERVO",
+    "display": "SERVO"
+  },
+  {
+    "key": "FACAO",
+    "display": "FACÃO"
+  },
+  {
+    "key": "BARRO",
+    "display": "BARRO"
+  },
+  {
+    "key": "FILME",
+    "display": "FILME"
+  },
+  {
+    "key": "ROUCA",
+    "display": "ROUCA"
+  },
+  {
+    "key": "NISTO",
+    "display": "NISTO"
+  },
+  {
+    "key": "CORAR",
+    "display": "CORAR"
+  },
+  {
+    "key": "IDADE",
+    "display": "IDADE"
+  },
+  {
+    "key": "LISOS",
+    "display": "LISOS"
+  },
+  {
+    "key": "SELIM",
+    "display": "SELIM"
+  },
+  {
+    "key": "PEIXE",
+    "display": "PEIXE"
+  },
+  {
+    "key": "UNTAR",
+    "display": "UNTAR"
+  },
+  {
+    "key": "SANAR",
+    "display": "SANAR"
+  },
+  {
+    "key": "GRANA",
+    "display": "GRANA"
+  },
+  {
+    "key": "PANOS",
+    "display": "PANOS"
+  },
+  {
+    "key": "RELVA",
+    "display": "RELVA"
+  },
+  {
+    "key": "PLENA",
+    "display": "PLENA"
+  },
+  {
+    "key": "BESTA",
+    "display": "BESTA"
+  },
+  {
+    "key": "BANDA",
+    "display": "BANDA"
+  },
+  {
+    "key": "SODIO",
+    "display": "SÓDIO"
+  },
+  {
+    "key": "FEIRA",
+    "display": "FEIRA"
+  },
+  {
+    "key": "POMPA",
+    "display": "POMPA"
+  },
+  {
+    "key": "VELOZ",
+    "display": "VELOZ"
+  },
+  {
+    "key": "BELAS",
+    "display": "BELAS"
+  },
+  {
+    "key": "POEMA",
+    "display": "POEMA"
+  },
+  {
+    "key": "TECLA",
+    "display": "TECLA"
+  },
+  {
+    "key": "ADEUS",
+    "display": "ADEUS"
+  },
+  {
+    "key": "DOBRA",
+    "display": "DOBRA"
+  },
+  {
+    "key": "FRUTO",
+    "display": "FRUTO"
+  },
+  {
+    "key": "SORTE",
+    "display": "SORTE"
+  },
+  {
+    "key": "SABAO",
+    "display": "SABÃO"
+  },
+  {
+    "key": "SUSHI",
+    "display": "SUSHI"
+  },
+  {
+    "key": "QUIBE",
+    "display": "QUIBE"
+  },
+  {
+    "key": "CORNO",
+    "display": "CORNO"
+  },
+  {
+    "key": "TENIS",
+    "display": "TÊNIS"
+  },
+  {
+    "key": "TOSCO",
+    "display": "TOSCO"
+  },
+  {
+    "key": "VALSA",
+    "display": "VALSA"
+  },
+  {
+    "key": "LACRE",
+    "display": "LACRE"
+  },
+  {
+    "key": "FOSCO",
+    "display": "FOSCO"
+  },
+  {
+    "key": "NENEM",
+    "display": "NENÉM"
+  },
+  {
+    "key": "CLERO",
+    "display": "CLERO"
+  },
+  {
+    "key": "DEVER",
+    "display": "DEVER"
+  },
+  {
+    "key": "DUZIA",
+    "display": "DÚZIA"
+  },
+  {
+    "key": "RACAO",
+    "display": "RAÇÃO"
+  },
+  {
+    "key": "TERCA",
+    "display": "TERÇA"
+  },
+  {
+    "key": "SOTAO",
+    "display": "SÓTÃO"
+  },
+  {
+    "key": "FUZUE",
+    "display": "FUZUÊ"
+  },
+  {
+    "key": "AVISO",
+    "display": "AVISO"
+  },
+  {
+    "key": "PROLE",
+    "display": "PROLE"
+  },
+  {
+    "key": "COSTA",
+    "display": "COSTA"
+  },
+  {
+    "key": "MANGA",
+    "display": "MANGA"
+  },
+  {
+    "key": "METRO",
+    "display": "METRO"
+  },
+  {
+    "key": "PIRAR",
+    "display": "PIRAR"
+  },
+  {
+    "key": "VERDE",
+    "display": "VERDE"
+  },
+  {
+    "key": "UNICO",
+    "display": "ÚNICO"
+  },
+  {
+    "key": "VACAS",
+    "display": "VACAS"
+  },
+  {
+    "key": "SUADO",
+    "display": "SUADO"
+  },
+  {
+    "key": "FIXAR",
+    "display": "FIXAR"
+  },
+  {
+    "key": "LOIRO",
+    "display": "LOIRO"
+  },
+  {
+    "key": "FOGOS",
+    "display": "FOGOS"
+  },
+  {
+    "key": "DUNAS",
+    "display": "DUNAS"
+  },
+  {
+    "key": "RADAR",
+    "display": "RADAR"
+  },
+  {
+    "key": "BAIXA",
+    "display": "BAIXA"
+  },
+  {
+    "key": "FREVO",
+    "display": "FREVO"
+  },
+  {
+    "key": "TERRA",
+    "display": "TERRA"
+  },
+  {
+    "key": "CALVA",
+    "display": "CALVA"
+  },
+  {
+    "key": "HARPA",
+    "display": "HARPA"
+  },
+  {
+    "key": "DUETO",
+    "display": "DUETO"
+  },
+  {
+    "key": "PROVA",
+    "display": "PROVA"
+  },
+  {
+    "key": "PLUMA",
+    "display": "PLUMA"
+  },
+  {
+    "key": "IRMAO",
+    "display": "IRMÃO"
+  },
+  {
+    "key": "JUSTA",
+    "display": "JUSTA"
+  },
+  {
+    "key": "PAGAR",
+    "display": "PAGAR"
+  },
+  {
+    "key": "FARPA",
+    "display": "FARPA"
+  },
+  {
+    "key": "CERCA",
+    "display": "CERCA"
+  },
+  {
+    "key": "VOLEI",
+    "display": "VÔLEI"
+  },
+  {
+    "key": "ROSCA",
+    "display": "ROSCA"
+  },
+  {
+    "key": "EUROS",
+    "display": "EUROS"
+  },
+  {
+    "key": "CURAR",
+    "display": "CURAR"
+  },
+  {
+    "key": "FENDA",
+    "display": "FENDA"
+  },
+  {
+    "key": "FARRA",
+    "display": "FARRA"
+  },
+  {
+    "key": "AREAS",
+    "display": "ÁREAS"
+  },
+  {
+    "key": "UNHAS",
+    "display": "UNHAS"
+  },
+  {
+    "key": "NOMES",
+    "display": "NOMES"
+  },
+  {
+    "key": "TABUA",
+    "display": "TÁBUA"
+  },
+  {
+    "key": "GOSMA",
+    "display": "GOSMA"
+  },
+  {
+    "key": "CAPUZ",
+    "display": "CAPUZ"
+  },
+  {
+    "key": "ILESO",
+    "display": "ILESO"
+  },
+  {
+    "key": "LENHA",
+    "display": "LENHA"
+  },
+  {
+    "key": "PERUA",
+    "display": "PERUA"
+  },
+  {
+    "key": "PADRE",
+    "display": "PADRE"
+  },
+  {
+    "key": "FAZER",
+    "display": "FAZER"
+  },
+  {
+    "key": "TOCAR",
+    "display": "TOCAR"
+  },
+  {
+    "key": "BRUXO",
+    "display": "BRUXO"
+  },
+  {
+    "key": "LOJAS",
+    "display": "LOJAS"
+  },
+  {
+    "key": "LERDO",
+    "display": "LERDO"
+  },
+  {
+    "key": "NISSO",
+    "display": "NISSO"
+  },
+  {
+    "key": "GOLFO",
+    "display": "GOLFO"
+  },
+  {
+    "key": "TOPAR",
+    "display": "TOPAR"
+  },
+  {
+    "key": "USADA",
+    "display": "USADA"
+  },
+  {
+    "key": "RUIVO",
+    "display": "RUIVO"
+  },
+  {
+    "key": "SAUDE",
+    "display": "SAÚDE"
+  },
+  {
+    "key": "NADAR",
+    "display": "NADAR"
+  },
+  {
+    "key": "LIXAR",
+    "display": "LIXAR"
+  },
+  {
+    "key": "VIDAS",
+    "display": "VIDAS"
+  },
+  {
+    "key": "POMBA",
+    "display": "POMBA"
+  },
+  {
+    "key": "EXODO",
+    "display": "ÊXODO"
+  },
+  {
+    "key": "ACOLA",
+    "display": "ACOLÁ"
+  },
+  {
+    "key": "DOTAR",
+    "display": "DOTAR"
+  },
+  {
+    "key": "RAIAR",
+    "display": "RAIAR"
+  },
+  {
+    "key": "BATOM",
+    "display": "BATOM"
+  },
+  {
+    "key": "ONTEM",
+    "display": "ONTEM"
+  },
+  {
+    "key": "TORPE",
+    "display": "TORPE"
+  },
+  {
+    "key": "OASIS",
+    "display": "OÁSIS"
+  },
+  {
+    "key": "CLORO",
+    "display": "CLORO"
+  },
+  {
+    "key": "CURVA",
+    "display": "CURVA"
+  },
+  {
+    "key": "SURTO",
+    "display": "SURTO"
+  },
+  {
+    "key": "RICOS",
+    "display": "RICOS"
+  },
+  {
+    "key": "URSOS",
+    "display": "URSOS"
+  },
+  {
+    "key": "HIENA",
+    "display": "HIENA"
+  },
+  {
+    "key": "VASTA",
+    "display": "VASTA"
+  },
+  {
+    "key": "RISOS",
+    "display": "RISOS"
+  },
+  {
+    "key": "FEBRE",
+    "display": "FEBRE"
+  },
+  {
+    "key": "FUMAR",
+    "display": "FUMAR"
+  },
+  {
+    "key": "FORUM",
+    "display": "FÓRUM"
+  },
+  {
+    "key": "LUTAR",
+    "display": "LUTAR"
+  },
+  {
+    "key": "CATAR",
+    "display": "CATAR"
+  },
+  {
+    "key": "TRELA",
+    "display": "TRELA"
+  },
+  {
+    "key": "LITRO",
+    "display": "LITRO"
+  },
+  {
+    "key": "SURDO",
+    "display": "SURDO"
+  },
+  {
+    "key": "MENOS",
+    "display": "MENOS"
+  },
+  {
+    "key": "CHORO",
+    "display": "CHORO"
+  },
+  {
+    "key": "CHEFE",
+    "display": "CHEFE"
+  },
+  {
+    "key": "VASTO",
+    "display": "VASTO"
+  },
+  {
+    "key": "CETIM",
+    "display": "CETIM"
+  },
+  {
+    "key": "TRACO",
+    "display": "TRAÇO"
+  },
+  {
+    "key": "CILIO",
+    "display": "CÍLIO"
+  },
+  {
+    "key": "EXTRA",
+    "display": "EXTRA"
+  },
+  {
+    "key": "GREVE",
+    "display": "GREVE"
+  },
+  {
+    "key": "TAPAR",
+    "display": "TAPAR"
+  },
+  {
+    "key": "TUFAO",
+    "display": "TUFÃO"
+  },
+  {
+    "key": "SARAU",
+    "display": "SARAU"
+  },
+  {
+    "key": "ROSAS",
+    "display": "ROSAS"
+  },
+  {
+    "key": "TOURO",
+    "display": "TOURO"
+  },
+  {
+    "key": "TRAPO",
+    "display": "TRAPO"
+  },
+  {
+    "key": "LIRIO",
+    "display": "LÍRIO"
+  },
+  {
+    "key": "ABANO",
+    "display": "ABANO"
+  },
+  {
+    "key": "DELTA",
+    "display": "DELTA"
+  },
+  {
+    "key": "CACAO",
+    "display": "CAÇÃO"
+  },
+  {
+    "key": "ANZOL",
+    "display": "ANZOL"
+  },
+  {
+    "key": "SARNA",
+    "display": "SARNA"
+  },
+  {
+    "key": "CLAVE",
+    "display": "CLAVE"
+  },
+  {
+    "key": "REFEM",
+    "display": "REFÉM"
+  },
+  {
+    "key": "HIFEN",
+    "display": "HÍFEN"
+  },
+  {
+    "key": "CLARO",
+    "display": "CLARO"
+  },
+  {
+    "key": "NASAL",
+    "display": "NASAL"
+  },
+  {
+    "key": "BURRA",
+    "display": "BURRA"
+  },
+  {
+    "key": "CONDE",
+    "display": "CONDE"
+  },
+  {
+    "key": "PONTE",
+    "display": "PONTE"
+  },
+  {
+    "key": "ONDAS",
+    "display": "ONDAS"
+  },
+  {
+    "key": "QUOTA",
+    "display": "QUOTA"
+  },
+  {
+    "key": "MEXER",
+    "display": "MEXER"
+  },
+  {
+    "key": "VERBA",
+    "display": "VERBA"
+  },
+  {
+    "key": "AONDE",
+    "display": "AONDE"
+  },
+  {
+    "key": "OBRAS",
+    "display": "OBRAS"
+  },
+  {
+    "key": "IDOSA",
+    "display": "IDOSA"
+  },
+  {
+    "key": "SIGNO",
+    "display": "SIGNO"
+  },
+  {
+    "key": "FRIAS",
+    "display": "FRIAS"
+  },
+  {
+    "key": "LESAO",
+    "display": "LESÃO"
+  },
+  {
+    "key": "MUNDO",
+    "display": "MUNDO"
+  },
+  {
+    "key": "GENIO",
+    "display": "GÊNIO"
+  },
+  {
+    "key": "LEGAL",
+    "display": "LEGAL"
+  },
+  {
+    "key": "TEMPO",
+    "display": "TEMPO"
+  },
+  {
+    "key": "AMBAR",
+    "display": "ÂMBAR"
+  },
+  {
+    "key": "CULTA",
+    "display": "CULTA"
+  },
+  {
+    "key": "VINHO",
+    "display": "VINHO"
+  },
+  {
+    "key": "LIVRO",
+    "display": "LIVRO"
+  },
+  {
+    "key": "NINHO",
+    "display": "NINHO"
+  },
+  {
+    "key": "GERME",
+    "display": "GERME"
+  },
+  {
+    "key": "CULTO",
+    "display": "CULTO"
+  },
+  {
+    "key": "PASTO",
+    "display": "PASTO"
+  },
+  {
+    "key": "PODRE",
+    "display": "PODRE"
+  },
+  {
+    "key": "MIRAR",
+    "display": "MIRAR"
+  },
+  {
+    "key": "TESES",
+    "display": "TESES"
+  },
+  {
+    "key": "EBRIO",
+    "display": "ÉBRIO"
+  },
+  {
+    "key": "NAVES",
+    "display": "NAVES"
+  },
+  {
+    "key": "AFAGO",
+    "display": "AFAGO"
+  },
+  {
+    "key": "LAUDO",
+    "display": "LAUDO"
+  },
+  {
+    "key": "DITAR",
+    "display": "DITAR"
+  },
+  {
+    "key": "SELAR",
+    "display": "SELAR"
+  },
+  {
+    "key": "GARRA",
+    "display": "GARRA"
+  },
+  {
+    "key": "FOLIA",
+    "display": "FOLIA"
+  },
+  {
+    "key": "PEDAL",
+    "display": "PEDAL"
+  },
+  {
+    "key": "NINAR",
+    "display": "NINAR"
+  },
+  {
+    "key": "TIRAR",
+    "display": "TIRAR"
+  },
+  {
+    "key": "FUGIR",
+    "display": "FUGIR"
+  },
+  {
+    "key": "CALOR",
+    "display": "CALOR"
+  },
+  {
+    "key": "NAVAL",
+    "display": "NAVAL"
+  },
+  {
+    "key": "PORTA",
+    "display": "PORTA"
+  },
+  {
+    "key": "AMAGO",
+    "display": "ÂMAGO"
+  },
+  {
+    "key": "PONTA",
+    "display": "PONTA"
+  },
+  {
+    "key": "CALMA",
+    "display": "CALMA"
+  },
+  {
+    "key": "CAPAZ",
+    "display": "CAPAZ"
+  },
+  {
+    "key": "GENRO",
+    "display": "GENRO"
+  },
+  {
+    "key": "ALMAS",
+    "display": "ALMAS"
+  },
+  {
+    "key": "FEIAS",
+    "display": "FEIAS"
+  },
+  {
+    "key": "SENAO",
+    "display": "SENÃO"
+  },
+  {
+    "key": "BARCO",
+    "display": "BARCO"
+  },
+  {
+    "key": "ZONZO",
+    "display": "ZONZO"
+  },
+  {
+    "key": "SENHA",
+    "display": "SENHA"
+  },
+  {
+    "key": "FOCOS",
+    "display": "FOCOS"
+  },
+  {
+    "key": "OSSEA",
+    "display": "ÓSSEA"
+  },
+  {
+    "key": "ROSTO",
+    "display": "ROSTO"
+  },
+  {
+    "key": "SOCAR",
+    "display": "SOCAR"
+  },
+  {
+    "key": "CARNE",
+    "display": "CARNE"
+  },
+  {
+    "key": "GARFO",
+    "display": "GARFO"
+  },
+  {
+    "key": "LUVAS",
+    "display": "LUVAS"
+  },
+  {
+    "key": "CHIAR",
+    "display": "CHIAR"
+  },
+  {
+    "key": "VAZAO",
+    "display": "VAZÃO"
+  },
+  {
+    "key": "PORCO",
+    "display": "PORCO"
+  },
+  {
+    "key": "GASES",
+    "display": "GASES"
+  },
+  {
+    "key": "UMIDO",
+    "display": "ÚMIDO"
+  },
+  {
+    "key": "BOINA",
+    "display": "BOINA"
+  },
+  {
+    "key": "LACOS",
+    "display": "LAÇOS"
+  },
+  {
+    "key": "FERIR",
+    "display": "FERIR"
+  },
+  {
+    "key": "MEDIA",
+    "display": "MÉDIA"
+  },
+  {
+    "key": "ROUPA",
+    "display": "ROUPA"
+  },
+  {
+    "key": "DUQUE",
+    "display": "DUQUE"
+  },
+  {
+    "key": "BONDE",
+    "display": "BONDE"
+  },
+  {
+    "key": "TIROS",
+    "display": "TIROS"
+  },
+  {
+    "key": "AVARO",
+    "display": "AVARO"
+  },
+  {
+    "key": "EXATO",
+    "display": "EXATO"
+  },
+  {
+    "key": "DOCIL",
+    "display": "DÓCIL"
+  },
+  {
+    "key": "BASTA",
+    "display": "BASTA"
+  },
+  {
+    "key": "VIVER",
+    "display": "VIVER"
+  },
+  {
+    "key": "PLACA",
+    "display": "PLACA"
+  },
+  {
+    "key": "DISSO",
+    "display": "DISSO"
+  },
+  {
+    "key": "POROS",
+    "display": "POROS"
+  },
+  {
+    "key": "ARAME",
+    "display": "ARAME"
+  },
+  {
+    "key": "OUTRO",
+    "display": "OUTRO"
+  },
+  {
+    "key": "SOPAS",
+    "display": "SOPAS"
+  },
+  {
+    "key": "OTIMA",
+    "display": "ÓTIMA"
+  },
+  {
+    "key": "BRUXA",
+    "display": "BRUXA"
+  },
+  {
+    "key": "RAIVA",
+    "display": "RAIVA"
+  },
+  {
+    "key": "MUSEU",
+    "display": "MUSEU"
+  },
+  {
+    "key": "ASTRO",
+    "display": "ASTRO"
+  },
+  {
+    "key": "RENTE",
+    "display": "RENTE"
+  },
+  {
+    "key": "LOMBO",
+    "display": "LOMBO"
+  },
+  {
+    "key": "BORDO",
+    "display": "BORDO"
+  },
+  {
+    "key": "CINTA",
+    "display": "CINTA"
+  },
+  {
+    "key": "MANHA",
+    "display": "MANHÃ"
+  },
+  {
+    "key": "PALCO",
+    "display": "PALCO"
+  },
+  {
+    "key": "PEOES",
+    "display": "PEÕES"
+  },
+  {
+    "key": "FOLHA",
+    "display": "FOLHA"
+  },
+  {
+    "key": "TRECO",
+    "display": "TRECO"
+  },
+  {
+    "key": "CASAR",
+    "display": "CASAR"
+  },
+  {
+    "key": "LOUCO",
+    "display": "LOUCO"
+  },
+  {
+    "key": "TURVO",
+    "display": "TURVO"
+  },
+  {
+    "key": "RADIO",
+    "display": "RÁDIO"
+  },
+  {
+    "key": "TIPOS",
+    "display": "TIPOS"
+  },
+  {
+    "key": "SOMAR",
+    "display": "SOMAR"
+  },
+  {
+    "key": "ACHAR",
+    "display": "ACHAR"
+  },
+  {
+    "key": "MACHO",
+    "display": "MACHO"
+  },
+  {
+    "key": "AJUDA",
+    "display": "AJUDA"
+  },
+  {
+    "key": "TIMES",
+    "display": "TIMES"
+  },
+  {
+    "key": "METER",
+    "display": "METER"
+  },
+  {
+    "key": "GRACA",
+    "display": "GRAÇA"
+  },
+  {
+    "key": "MOSCA",
+    "display": "MOSCA"
+  },
+  {
+    "key": "MILHA",
+    "display": "MILHA"
+  },
+  {
+    "key": "CARRO",
+    "display": "CARRO"
+  },
+  {
+    "key": "ALGUM",
+    "display": "ALGUM"
+  },
+  {
+    "key": "CONTA",
+    "display": "CONTA"
+  },
+  {
+    "key": "NICHO",
+    "display": "NICHO"
+  },
+  {
+    "key": "SABOR",
+    "display": "SABOR"
+  },
+  {
+    "key": "NATAL",
+    "display": "NATAL"
+  },
+  {
+    "key": "TATIL",
+    "display": "TÁTIL"
+  },
+  {
+    "key": "CERNE",
+    "display": "CERNE"
+  },
+  {
+    "key": "TORTA",
+    "display": "TORTA"
+  },
+  {
+    "key": "APOIO",
+    "display": "APOIO"
+  },
+  {
+    "key": "SIMIO",
+    "display": "SÍMIO"
+  },
+  {
+    "key": "FETAL",
+    "display": "FETAL"
+  },
+  {
+    "key": "HOTEL",
+    "display": "HOTEL"
+  },
+  {
+    "key": "SETOR",
+    "display": "SETOR"
+  },
+  {
+    "key": "VESGO",
+    "display": "VESGO"
+  },
+  {
+    "key": "AMADA",
+    "display": "AMADA"
+  },
+  {
+    "key": "FIRMA",
+    "display": "FIRMA"
+  },
+  {
+    "key": "HABIL",
+    "display": "HÁBIL"
+  },
+  {
+    "key": "CALCA",
+    "display": "CALÇA"
+  },
+  {
+    "key": "ASPAS",
+    "display": "ASPAS"
+  },
+  {
+    "key": "LATAS",
+    "display": "LATAS"
+  },
+  {
+    "key": "QUASE",
+    "display": "QUASE"
+  },
+  {
+    "key": "CREME",
+    "display": "CREME"
+  },
+  {
+    "key": "TELHA",
+    "display": "TELHA"
+  },
+  {
+    "key": "TEIAS",
+    "display": "TEIAS"
+  },
+  {
+    "key": "ASSAR",
+    "display": "ASSAR"
+  },
+  {
+    "key": "LOUSA",
+    "display": "LOUSA"
+  },
+  {
+    "key": "BAQUE",
+    "display": "BAQUE"
+  },
+  {
+    "key": "RUBRO",
+    "display": "RUBRO"
+  },
+  {
+    "key": "FOTOS",
+    "display": "FOTOS"
+  },
+  {
+    "key": "ADIAR",
+    "display": "ADIAR"
+  },
+  {
+    "key": "DOLAR",
+    "display": "DÓLAR"
+  },
+  {
+    "key": "POLAR",
+    "display": "POLAR"
+  },
+  {
+    "key": "LIMAO",
+    "display": "LIMÃO"
+  },
+  {
+    "key": "LANCA",
+    "display": "LANÇA"
+  },
+  {
+    "key": "COROA",
+    "display": "COROA"
+  },
+  {
+    "key": "POMAR",
+    "display": "POMAR"
+  },
+  {
+    "key": "TRIPA",
+    "display": "TRIPA"
+  },
+  {
+    "key": "MESMO",
+    "display": "MESMO"
+  },
+  {
+    "key": "JEGUE",
+    "display": "JEGUE"
+  },
+  {
+    "key": "ALBUM",
+    "display": "ÁLBUM"
+  },
+  {
+    "key": "CUSTO",
+    "display": "CUSTO"
+  },
+  {
+    "key": "FUTIL",
+    "display": "FÚTIL"
+  },
+  {
+    "key": "LAICO",
+    "display": "LAICO"
+  },
+  {
+    "key": "DEDOS",
+    "display": "DEDOS"
+  },
+  {
+    "key": "GANSO",
+    "display": "GANSO"
+  },
+  {
+    "key": "VISOR",
+    "display": "VISOR"
+  },
+  {
+    "key": "ABRIR",
+    "display": "ABRIR"
+  },
+  {
+    "key": "DEDAO",
+    "display": "DEDÃO"
+  },
+  {
+    "key": "BAZAR",
+    "display": "BAZAR"
+  },
+  {
+    "key": "GERIR",
+    "display": "GERIR"
+  },
+  {
+    "key": "MANIA",
+    "display": "MANIA"
+  },
+  {
+    "key": "RODAR",
+    "display": "RODAR"
+  },
+  {
+    "key": "TURNO",
+    "display": "TURNO"
+  },
+  {
+    "key": "ANOES",
+    "display": "ANÕES"
+  },
+  {
+    "key": "SEXTO",
+    "display": "SEXTO"
+  },
+  {
+    "key": "PALMA",
+    "display": "PALMA"
+  },
+  {
+    "key": "PARCO",
+    "display": "PARCO"
+  },
+  {
+    "key": "POUSO",
+    "display": "POUSO"
+  },
+  {
+    "key": "MOELA",
+    "display": "MOELA"
+  },
+  {
+    "key": "OTICO",
+    "display": "ÓTICO"
+  },
+  {
+    "key": "ARIES",
+    "display": "ÁRIES"
+  },
+  {
+    "key": "TENOR",
+    "display": "TENOR"
+  },
+  {
+    "key": "AMIDO",
+    "display": "AMIDO"
+  },
+  {
+    "key": "SOLAR",
+    "display": "SOLAR"
+  },
+  {
+    "key": "POSTE",
+    "display": "POSTE"
+  },
+  {
+    "key": "URUBU",
+    "display": "URUBU"
+  },
+  {
+    "key": "COISA",
+    "display": "COISA"
+  },
+  {
+    "key": "SEARA",
+    "display": "SEARA"
+  },
+  {
+    "key": "XAMPU",
+    "display": "XAMPU"
+  },
+  {
+    "key": "DIETA",
+    "display": "DIETA"
+  },
+  {
+    "key": "ROCHA",
+    "display": "ROCHA"
+  },
+  {
+    "key": "TURMA",
+    "display": "TURMA"
+  },
+  {
+    "key": "PAIOL",
+    "display": "PAIOL"
+  },
+  {
+    "key": "VILAO",
+    "display": "VILÃO"
+  },
+  {
+    "key": "NIVEL",
+    "display": "NÍVEL"
+  },
+  {
+    "key": "POUCA",
+    "display": "POUCA"
+  },
+  {
+    "key": "VINIL",
+    "display": "VINIL"
+  },
+  {
+    "key": "FRADE",
+    "display": "FRADE"
+  },
+  {
+    "key": "TONTO",
+    "display": "TONTO"
+  },
+  {
+    "key": "CAVAR",
+    "display": "CAVAR"
+  },
+  {
+    "key": "LILAS",
+    "display": "LILÁS"
+  },
+  {
+    "key": "NARIZ",
+    "display": "NARIZ"
+  },
+  {
+    "key": "TORRE",
+    "display": "TORRE"
+  },
+  {
+    "key": "PARAR",
+    "display": "PARAR"
+  },
+  {
+    "key": "SUPOR",
+    "display": "SUPOR"
+  },
+  {
+    "key": "GAMBA",
+    "display": "GAMBÁ"
+  },
+  {
+    "key": "CRAVO",
+    "display": "CRAVO"
+  },
+  {
+    "key": "ARDUO",
+    "display": "ÁRDUO"
+  },
+  {
+    "key": "TOSCA",
+    "display": "TOSCA"
+  },
+  {
+    "key": "CLIMA",
+    "display": "CLIMA"
+  },
+  {
+    "key": "SOSIA",
+    "display": "SÓSIA"
+  },
+  {
+    "key": "CHATO",
+    "display": "CHATO"
+  },
+  {
+    "key": "MOITA",
+    "display": "MOITA"
+  },
+  {
+    "key": "VAGAR",
+    "display": "VAGAR"
+  },
+  {
+    "key": "PAUSA",
+    "display": "PAUSA"
+  },
+  {
+    "key": "TRUTA",
+    "display": "TRUTA"
+  },
+  {
+    "key": "PODAR",
+    "display": "PODAR"
+  },
+  {
+    "key": "FUCAR",
+    "display": "FUÇAR"
+  },
+  {
+    "key": "POSAR",
+    "display": "POSAR"
+  },
+  {
+    "key": "AUTOR",
+    "display": "AUTOR"
+  },
+  {
+    "key": "CRUEL",
+    "display": "CRUEL"
+  },
+  {
+    "key": "QUICA",
+    "display": "QUIÇÁ"
+  },
+  {
+    "key": "AVIAO",
+    "display": "AVIÃO"
+  },
+  {
+    "key": "RETRO",
+    "display": "RETRO"
+  },
+  {
+    "key": "DORES",
+    "display": "DORES"
+  },
+  {
+    "key": "CREDO",
+    "display": "CREDO"
+  },
+  {
+    "key": "HINOS",
+    "display": "HINOS"
+  },
+  {
+    "key": "CAPIM",
+    "display": "CAPIM"
+  },
+  {
+    "key": "TANGO",
+    "display": "TANGO"
+  },
+  {
+    "key": "VOCES",
+    "display": "VOCÊS"
+  },
+  {
+    "key": "JURAR",
+    "display": "JURAR"
+  },
+  {
+    "key": "AMIGO",
+    "display": "AMIGO"
+  },
+  {
+    "key": "VASCO",
+    "display": "VASCO"
+  },
+  {
+    "key": "MENGO",
+    "display": "MENGO"
+  }
+]

@@ -1,6 +1,6 @@
 import {useEffect,useMemo,useRef,useState} from 'react';
 import {BarChart3,CalendarDays,Delete,Eraser,HelpCircle,Infinity as InfinityIcon,Lightbulb,Share2,X} from 'lucide-react';
-import {answerFor,displayWord,hintFor,isWord} from './corpus';
+import {answerFor,displayWord,hintFor,infiniteAnswer,isWord,nextInfiniteAnswer} from './corpus';
 import {dayNumber,loadGames,localDate,newGame,normalize,saveGame,score,scoreMarks,statistics,type Game,type Mark} from './game';
 
 const ROWS=['QWERTYUIOP','ASDFGHJKL','ZXCVBNM'];
@@ -13,13 +13,13 @@ export default function App(){
 
 function GameApp({search}:{search:string}){
  const today=localDate(),params=useMemo(()=>new URLSearchParams(search),[search]),requested=params.get('data'),archive=params.get('modo')==='arquivo'&&!!requested,infinite=params.get('modo')==='infinito';
- const requestedPuzzle=Number(params.get('jogo')),infiniteNumber=useMemo(()=>Number.isInteger(requestedPuzzle)&&requestedPuzzle>0?requestedPuzzle:randomPuzzle(),[]);
- const date=archive?requested!:today,number=infinite?infiniteNumber:dayNumber(date),locked=!infinite&&(number<1||date>today);
- const key=infinite?`i:${number}`:`${archive?'a':'d'}:${date}`,existing=loadGames()[key];
- const [game,setGame]=useState<Game>(existing||newGame(date,archive,infinite,infinite?number:undefined));const [modal,setModal]=useState<Modal>(locked?'archive':existing?.status&&existing.status!=='playing'?'result':null);const [message,setMessage]=useState('');const [invalid,setInvalid]=useState(false);const [now,setNow]=useState(new Date());const answer=answerFor(number);
+ const requestedPuzzle=params.get('jogo'),infiniteToken=useMemo(()=>infinite?(requestedPuzzle||nextInfiniteAnswer()):'',[infinite,requestedPuzzle]);
+ const date=archive?requested!:today,number=dayNumber(date),locked=!infinite&&(number<1||date>today);
+ const key=infinite?`i:${infiniteToken}`:`${archive?'a':'d'}:${date}`,existing=loadGames()[key];
+ const [game,setGame]=useState<Game>(existing||newGame(date,archive,infinite,infinite?infiniteToken:undefined));const [modal,setModal]=useState<Modal>(locked?'archive':existing?.status&&existing.status!=='playing'?'result':null);const [message,setMessage]=useState('');const [invalid,setInvalid]=useState(false);const [now,setNow]=useState(new Date());const answer=infinite?infiniteAnswer(infiniteToken):answerFor(number);
  const gameRef=useRef(game);gameRef.current=game;
  const commit=(next:Game)=>{next.updatedAt=new Date().toISOString();setGame(next);saveGame(next)};
- useEffect(()=>{if(infinite&&params.get('jogo')!==String(number))history.replaceState(null,'',`./?modo=infinito&jogo=${number}`)},[infinite,number]);
+ useEffect(()=>{if(infinite&&params.get('jogo')!==infiniteToken)history.replaceState(null,'',`./?modo=infinito&jogo=${infiniteToken}`)},[infinite,infiniteToken]);
  useEffect(()=>{const tick=()=>{setNow(new Date());if(localDate()!==today&&!gameRef.current.archive&&!gameRef.current.infinite)location.reload()};const id=setInterval(tick,1000);addEventListener('focus',tick);document.addEventListener('visibilitychange',tick);return()=>{clearInterval(id);removeEventListener('focus',tick);document.removeEventListener('visibilitychange',tick)}},[today]);
  useEffect(()=>{const down=(e:KeyboardEvent)=>{if(modal||game.status!=='playing')return;if(/^[a-zA-ZçÇáàãâéêíóôõúü]$/.test(e.key))input(e.key);else if(e.key==='Backspace'){e.preventDefault();backspace()}else if(e.key==='Enter'){e.preventDefault();submit()}else if(e.key===' '||e.key==='-'){e.preventDefault();input('_')}};addEventListener('keydown',down);return()=>removeEventListener('keydown',down)});
  const input=(letter:string)=>{if(game.status!=='playing'||game.draft.length>=5)return;setInvalid(false);commit({...game,draft:game.draft+normalize(letter)})};
@@ -44,9 +44,8 @@ function GameApp({search}:{search:string}){
  {modal&&<ModalView type={modal} close={()=>setModal(null)} game={game} date={date} today={today} answer={answer.display} countdown={`${hh}:${mm}:${ss}`} onConfirmHint={()=>{setModal(null);applyHint()}}/>}</main>
 }
 
-function randomPuzzle(){return crypto.getRandomValues(new Uint32Array(1))[0]+1}
 function navigate(url:string){history.pushState(null,'',url);dispatchEvent(new PopStateEvent('popstate'))}
-function playInfinite(current?:number){let next=randomPuzzle();if(next===current)next=next%0xffffffff+1;navigate(`./?modo=infinito&jogo=${next}`)}
+function playInfinite(_current?:string|number){navigate(`./?modo=infinito&jogo=${nextInfiniteAnswer()}`)}
 
 function ModalView({type,close,game,date,today,answer,countdown,onConfirmHint}:{type:Exclude<Modal,null>;close:()=>void;game:Game;date:string;today:string;answer:string;countdown:string;onConfirmHint:()=>void}){
  const all=Object.values(loadGames()),stats=statistics(all,today),archiveGames=all.filter(g=>g.archive&&g.status!=='playing'),[month,setMonth]=useState(date.slice(0,7)),[copied,setCopied]=useState(false);

@@ -1,0 +1,41 @@
+{
+  "collisions": {},
+  "counts": {
+    "answers": 1264,
+    "collisions": 0,
+    "guesses": 10589,
+    "manualDenied": 5,
+    "regularConjugationsDetected": 1745
+  },
+  "manualAllow": [
+    "AMIGO",
+    "CANTO",
+    "MENGO",
+    "SUICO",
+    "VASCO"
+  ],
+  "manualDeny": [
+    "ABREM",
+    "ABRIU",
+    "BEBIA",
+    "PAGAM",
+    "PESCO"
+  ],
+  "parameters": {
+    "automaticAnswerZipf": 3.5,
+    "letters": 5,
+    "normalization": "NFD, remove marks, uppercase ASCII",
+    "reviewZipf": [
+      3.0,
+      3.49
+    ]
+  },
+  "sources": [
+    {
+      "path": "assets/corpus.txt",
+      "role": "bootstrap guess forms and reviewed legacy seed",
+      "sha256": "503332d385ad5a673ba5a3c72464f3a71dcdd49281a9bfdd64ba5b40f74067bc"
+    }
+  ],
+  "version": "2026.07.20"
+}

@@ -2,7 +2,7 @@ export type Clue={correct:number;present:number;absent:number};
 export type Mark='neutral'|'absent'|'present'|'correct';
 export type Attempt={word:string;display:string;clue:Clue;marks:Mark[]};
 export type Status='playing'|'won'|'lost';
-export type Game={version:2;date:string;archive:boolean;infinite?:boolean;puzzle?:number;draft:string;attempts:Attempt[];status:Status;hintUsed:boolean;updatedAt:string};
+export type Game={version:2;date:string;archive:boolean;infinite?:boolean;puzzle?:string|number;draft:string;attempts:Attempt[];status:Status;hintUsed:boolean;updatedAt:string};
 export const EPOCH='2026-07-18';
 export const normalize=(value:string)=>value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ç/gi,'c').toUpperCase().replace(/[^A-Z_]/g,'');
 export function score(guess:string,answer:string):Clue{
@@ -19,7 +19,7 @@ export function scoreMarks(guess:string,answer:string):Mark[]{
 }
 export const localDate=(d=new Date())=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
 export function dayNumber(date:string){const [y,m,d]=date.split('-').map(Number),[ey,em,ed]=EPOCH.split('-').map(Number);return Math.floor((Date.UTC(y,m-1,d)-Date.UTC(ey,em-1,ed))/86400000)+1}
-export const newGame=(date:string,archive=false,infinite=false,puzzle?:number):Game=>({version:2,date,archive,infinite,puzzle,draft:'',attempts:[],status:'playing',hintUsed:false,updatedAt:new Date().toISOString()});
+export const newGame=(date:string,archive=false,infinite=false,puzzle?:string|number):Game=>({version:2,date,archive,infinite,puzzle,draft:'',attempts:[],status:'playing',hintUsed:false,updatedAt:new Date().toISOString()});
 const NS='termo500.games.v2';
 export function loadGames():Record<string,Game>{try{const raw=JSON.parse(localStorage.getItem(NS)||'{}');if(!raw||typeof raw!=='object')return{};return Object.fromEntries(Object.entries(raw).filter(([,g])=>validGame(g)) as [string,Game][])}catch{return{}}}
 function validGame(x:unknown):x is Game{const g=x as Game;return !!g&&g.version===2&&/^\d{4}-\d{2}-\d{2}$/.test(g.date)&&Array.isArray(g.attempts)&&['playing','won','lost'].includes(g.status)}

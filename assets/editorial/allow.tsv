@@ -1,0 +1,6 @@
+# display	lemma	pos	frequency	reason	flags
+AMIGO	AMIGO	noun-or-adjective	5.20	palavra comum adicionada editorialmente	
+SUÍÇO	SUÍÇO	noun-or-adjective	4.30	gentílico familiar	
+VASCO	VASCO	proper-noun	4.70	nome próprio familiar permitido explicitamente	
+MENGO	MENGO	proper-noun	3.80	apelido familiar permitido explicitamente	
+CANTO	CANTO	noun	5.10	homógrafo com leitura nominal comum	
