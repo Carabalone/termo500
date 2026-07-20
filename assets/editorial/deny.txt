@@ -1,0 +1,7 @@
+# Formas verbais podem ser palpites, mas não respostas.
+ABRIU
+ABREM
+# Flexões que existiam na semente antiga e são fixtures editoriais.
+BEBIA
+PAGAM
+PESCO
